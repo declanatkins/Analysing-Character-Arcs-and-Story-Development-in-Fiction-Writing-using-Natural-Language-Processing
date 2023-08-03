@@ -1,0 +1,1976 @@
+,COREF,start_token,end_token,prop,cat,text,character_name
+0,14,0,3,PROP,PER,MARLEY 'S GHOST Marley,MARLEY 'S GHOST Marley
+6,20,41,41,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+7,20,46,46,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+8,20,56,56,PRON,PER,he,Mr. Ebenezer Scrooge
+9,20,60,60,PRON,PER,his,Mr. Ebenezer Scrooge
+10,16,64,65,PROP,PER,Old Marley,Old Jacob Marley
+23,16,166,166,PROP,PER,Marley,Old Jacob Marley
+24,20,176,176,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+25,20,178,178,PRON,PER,he,Mr. Ebenezer Scrooge
+26,20,184,184,PRON,PER,he,Mr. Ebenezer Scrooge
+27,20,193,193,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+28,20,195,195,PRON,PER,he,Mr. Ebenezer Scrooge
+30,20,207,207,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+31,20,209,209,PRON,PER,his,Mr. Ebenezer Scrooge
+33,20,213,213,PRON,PER,his,Mr. Ebenezer Scrooge
+35,20,217,217,PRON,PER,his,Mr. Ebenezer Scrooge
+37,20,221,221,PRON,PER,his,Mr. Ebenezer Scrooge
+39,20,226,226,PRON,PER,his,Mr. Ebenezer Scrooge
+42,20,236,236,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+43,20,249,249,PRON,PER,he,Mr. Ebenezer Scrooge
+45,16,275,275,PROP,PER,Marley,Old Jacob Marley
+48,16,293,293,PROP,PER,Marley,Old Jacob Marley
+60,20,396,396,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+61,16,400,401,PROP,PER,Old Marley,Old Jacob Marley
+63,20,417,417,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+64,16,419,419,PROP,PER,Marley,Old Jacob Marley
+66,20,426,426,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+67,16,428,428,PROP,PER,Marley,Old Jacob Marley
+70,16,442,442,PROP,PER,Marley,Old Jacob Marley
+71,20,445,445,PRON,PER,he,Mr. Ebenezer Scrooge
+72,20,457,457,PRON,PER,him,Mr. Ebenezer Scrooge
+73,20,462,462,PRON,PER,he,Mr. Ebenezer Scrooge
+74,20,473,473,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+76,20,523,523,PRON,PER,him,Mr. Ebenezer Scrooge
+77,20,525,525,PRON,PER,his,Mr. Ebenezer Scrooge
+78,20,530,530,PRON,PER,his,Mr. Ebenezer Scrooge
+79,20,535,535,PRON,PER,his,Mr. Ebenezer Scrooge
+80,20,539,539,PRON,PER,his,Mr. Ebenezer Scrooge
+81,20,543,543,PRON,PER,his,Mr. Ebenezer Scrooge
+82,20,547,547,PRON,PER,his,Mr. Ebenezer Scrooge
+83,20,557,557,PRON,PER,his,Mr. Ebenezer Scrooge
+84,20,566,566,PRON,PER,his,Mr. Ebenezer Scrooge
+85,20,571,571,PRON,PER,his,Mr. Ebenezer Scrooge
+86,20,575,575,PRON,PER,his,Mr. Ebenezer Scrooge
+87,20,579,579,PRON,PER,He,Mr. Ebenezer Scrooge
+88,20,581,581,PRON,PER,his,Mr. Ebenezer Scrooge
+89,20,588,588,PRON,PER,him,Mr. Ebenezer Scrooge
+90,20,590,590,PRON,PER,he,Mr. Ebenezer Scrooge
+91,20,592,592,PRON,PER,his,Mr. Ebenezer Scrooge
+93,20,618,618,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+94,20,629,629,PRON,PER,him,Mr. Ebenezer Scrooge
+95,20,638,638,PRON,PER,he,Mr. Ebenezer Scrooge
+96,20,666,666,PRON,PER,him,Mr. Ebenezer Scrooge
+97,20,686,686,PRON,PER,him,Mr. Ebenezer Scrooge
+99,20,701,701,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+101,20,708,708,PRON,PER,him,Mr. Ebenezer Scrooge
+105,20,722,722,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+106,20,726,726,PRON,PER,you,Mr. Ebenezer Scrooge
+107,20,730,730,PRON,PER,you,Mr. Ebenezer Scrooge
+110,20,740,740,PRON,PER,him,Mr. Ebenezer Scrooge
+112,20,749,749,PRON,PER,him,Mr. Ebenezer Scrooge
+115,20,763,763,PRON,PER,his,Mr. Ebenezer Scrooge
+116,20,776,776,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+118,20,787,787,PRON,PER,him,Mr. Ebenezer Scrooge
+120,20,794,794,PRON,PER,him,Mr. Ebenezer Scrooge
+127,20,838,838,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+128,20,846,846,PRON,PER,he,Mr. Ebenezer Scrooge
+129,20,851,851,PRON,PER,his,Mr. Ebenezer Scrooge
+131,20,879,879,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+132,20,899,900,PROP,PER,old Scrooge,Mr. Ebenezer Scrooge
+133,20,904,904,PRON,PER,his,Mr. Ebenezer Scrooge
+135,20,922,922,PRON,PER,he,Mr. Ebenezer Scrooge
+145,20,1068,1068,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+147,20,1077,1077,PRON,PER,he,Mr. Ebenezer Scrooge
+148,20,1080,1080,PRON,PER,his,Mr. Ebenezer Scrooge
+149,20,1083,1083,PRON,PER,his,Mr. Ebenezer Scrooge
+152,20,1103,1103,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+154,20,1128,1128,PRON,PER,he,Mr. Ebenezer Scrooge
+155,20,1135,1135,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+156,20,1142,1142,PRON,PER,his,Mr. Ebenezer Scrooge
+169,20,1226,1226,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+171,20,1233,1233,PRON,PER,him,Mr. Ebenezer Scrooge
+172,20,1242,1242,PRON,PER,he,Mr. Ebenezer Scrooge
+173,20,1245,1245,PRON,PER,his,Mr. Ebenezer Scrooge
+174,20,1253,1253,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+175,20,1259,1259,PRON,PER,He,Mr. Ebenezer Scrooge
+176,20,1263,1263,PRON,PER,himself,Mr. Ebenezer Scrooge
+178,20,1276,1276,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+179,20,1280,1280,PRON,PER,he,Mr. Ebenezer Scrooge
+180,20,1287,1287,PRON,PER,his,Mr. Ebenezer Scrooge
+181,20,1294,1294,PRON,PER,his,Mr. Ebenezer Scrooge
+182,20,1299,1299,PRON,PER,his,Mr. Ebenezer Scrooge
+184,20,1313,1313,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+187,20,1324,1324,PRON,PER,I,Mr. Ebenezer Scrooge
+188,20,1330,1330,PRON,PER,I,Mr. Ebenezer Scrooge
+189,20,1335,1335,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+197,20,1397,1397,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+210,20,1538,1538,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+222,20,1618,1618,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+225,20,1633,1633,PRON,PER,me,Mr. Ebenezer Scrooge
+226,20,1642,1642,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+251,20,1893,1893,PRON,PER,me,Mr. Ebenezer Scrooge
+253,20,1904,1904,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+261,20,1933,1933,PRON,PER,his,Mr. Ebenezer Scrooge
+268,20,1965,1965,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+269,20,1968,1968,PRON,PER,he,Mr. Ebenezer Scrooge
+271,20,1974,1974,PRON,PER,he,Mr. Ebenezer Scrooge
+272,20,1977,1977,PRON,PER,He,Mr. Ebenezer Scrooge
+273,20,1989,1989,PRON,PER,he,Mr. Ebenezer Scrooge
+275,20,2004,2004,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+277,20,2015,2015,PRON,PER,you,Mr. Ebenezer Scrooge
+278,20,2021,2021,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+279,20,2025,2025,PRON,PER,I,Mr. Ebenezer Scrooge
+280,20,2033,2033,PRON,PER,you,Mr. Ebenezer Scrooge
+281,20,2040,2040,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+285,20,2076,2076,PRON,PER,me,Mr. Ebenezer Scrooge
+286,20,2099,2099,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+287,20,2102,2102,PRON,PER,I,Mr. Ebenezer Scrooge
+289,20,2108,2108,PRON,PER,I,Mr. Ebenezer Scrooge
+293,20,2128,2128,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+294,20,2131,2131,PRON,PER,I,Mr. Ebenezer Scrooge
+295,20,2137,2137,PRON,PER,my,Mr. Ebenezer Scrooge
+298,20,2154,2154,PRON,PER,I,Mr. Ebenezer Scrooge
+300,20,2161,2161,PRON,PER,I,Mr. Ebenezer Scrooge
+302,20,2172,2172,PRON,PER,I,Mr. Ebenezer Scrooge
+303,20,2175,2175,PRON,PER,my,Mr. Ebenezer Scrooge
+306,20,2196,2196,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+307,20,2212,2212,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+308,20,2214,2214,PRON,PER,His,Mr. Ebenezer Scrooge
+311,20,2226,2226,PRON,PER,He,Mr. Ebenezer Scrooge
+314,20,2253,2253,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+318,20,2269,2269,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+320,20,2276,2276,PRON,PER,my,Mr. Ebenezer Scrooge
+324,20,2297,2297,PRON,PER,I,Mr. Ebenezer Scrooge
+327,20,2309,2309,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+333,20,2340,2340,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+337,20,2356,2356,PRON,PER,him,Mr. Ebenezer Scrooge
+338,20,2359,2359,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+339,16,2361,2361,PROP,PER,Marley,Old Jacob Marley
+342,20,2376,2376,PRON,PER,his,Mr. Ebenezer Scrooge
+344,20,2386,2387,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+345,21,2390,2391,PROP,PER,Mr. Marley,Mr. Marley
+346,21,2395,2396,PROP,PER,Mr. Marley,Mr. Marley
+347,20,2405,2405,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+348,21,2409,2409,PRON,PER,He,Mr. Marley
+350,21,2425,2425,PRON,PER,his,Mr. Marley
+351,21,2431,2431,PRON,PER,his,Mr. Marley
+357,20,2463,2463,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+358,20,2468,2468,PRON,PER,his,Mr. Ebenezer Scrooge
+359,20,2486,2487,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+367,20,2557,2557,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+371,20,2583,2583,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+376,20,2631,2631,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+378,20,2644,2644,PRON,PER,I,Mr. Ebenezer Scrooge
+382,20,2669,2669,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+383,20,2672,2672,PRON,PER,I,Mr. Ebenezer Scrooge
+393,20,2758,2758,PRON,PER,you,Mr. Ebenezer Scrooge
+394,20,2767,2767,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+396,20,2779,2779,PRON,PER,I,Mr. Ebenezer Scrooge
+397,20,2788,2788,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+399,20,2794,2794,PRON,PER,me,Mr. Ebenezer Scrooge
+400,20,2796,2796,PRON,PER,I,Mr. Ebenezer Scrooge
+402,20,2803,2803,PRON,PER,my,Mr. Ebenezer Scrooge
+403,20,2806,2806,PRON,PER,I,Mr. Ebenezer Scrooge
+404,20,2811,2811,PRON,PER,myself,Mr. Ebenezer Scrooge
+405,20,2816,2816,PRON,PER,I,Mr. Ebenezer Scrooge
+407,20,2826,2826,PRON,PER,I,Mr. Ebenezer Scrooge
+409,20,2832,2832,PRON,PER,I,Mr. Ebenezer Scrooge
+416,20,2874,2874,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+418,20,2892,2892,PRON,PER,me,Mr. Ebenezer Scrooge
+419,20,2894,2894,PRON,PER,I,Mr. Ebenezer Scrooge
+420,20,2903,2903,PRON,PER,you,Mr. Ebenezer Scrooge
+422,20,2917,2917,PRON,PER,my,Mr. Ebenezer Scrooge
+423,20,2921,2921,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+427,20,2946,2946,PRON,PER,Mine,Mr. Ebenezer Scrooge
+428,20,2948,2948,PRON,PER,me,Mr. Ebenezer Scrooge
+432,20,2973,2973,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+433,20,2975,2975,PRON,PER,his,Mr. Ebenezer Scrooge
+434,20,2982,2982,PRON,PER,himself,Mr. Ebenezer Scrooge
+435,20,2994,2994,PRON,PER,him,Mr. Ebenezer Scrooge
+443,20,3046,3046,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+476,20,3392,3392,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+477,20,3397,3397,PRON,PER,him,Mr. Ebenezer Scrooge
+478,20,3413,3413,PRON,PER,you,Mr. Ebenezer Scrooge
+480,20,3420,3420,PRON,PER,you,Mr. Ebenezer Scrooge
+481,20,3424,3424,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+485,20,3471,3471,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+486,20,3474,3474,PRON,PER,his,Mr. Ebenezer Scrooge
+490,20,3504,3504,PRON,PER,You,Mr. Ebenezer Scrooge
+491,20,3513,3513,PRON,PER,I,Mr. Ebenezer Scrooge
+492,20,3518,3518,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+494,20,3536,3536,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+495,20,3546,3546,PRON,PER,I,Mr. Ebenezer Scrooge
+496,20,3558,3558,PRON,PER,you,Mr. Ebenezer Scrooge
+497,20,3561,3561,PRON,PER,yourself,Mr. Ebenezer Scrooge
+498,20,3565,3565,PRON,PER,I,Mr. Ebenezer Scrooge
+500,20,3582,3582,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+501,20,3585,3585,PRON,PER,you,Mr. Ebenezer Scrooge
+502,20,3590,3590,PRON,PER,me,Mr. Ebenezer Scrooge
+503,20,3595,3595,PRON,PER,I,Mr. Ebenezer Scrooge
+506,20,3636,3636,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+507,20,3639,3639,PRON,PER,his,Mr. Ebenezer Scrooge
+508,20,3647,3647,PRON,PER,I,Mr. Ebenezer Scrooge
+509,20,3649,3649,PRON,PER,you,Mr. Ebenezer Scrooge
+513,20,3673,3673,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+525,20,3761,3761,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+526,20,3763,3763,PRON,PER,his,Mr. Ebenezer Scrooge
+527,20,3767,3767,PRON,PER,his,Mr. Ebenezer Scrooge
+529,20,3787,3787,PRON,PER,his,Mr. Ebenezer Scrooge
+532,20,3797,3797,PRON,PER,He,Mr. Ebenezer Scrooge
+534,20,3806,3806,PRON,PER,his,Mr. Ebenezer Scrooge
+549,20,3890,3890,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+553,20,3909,3909,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+555,20,3922,3922,PRON,PER,his,Mr. Ebenezer Scrooge
+558,20,3991,3991,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+559,20,4001,4001,PRON,PER,his,Mr. Ebenezer Scrooge
+561,20,4010,4010,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+562,20,4020,4020,PRON,PER,him,Mr. Ebenezer Scrooge
+568,20,4055,4055,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+569,21,4062,4062,PROP,PER,Marley,Mr. Marley
+570,20,4064,4064,PRON,PER,his,Mr. Ebenezer Scrooge
+571,20,4068,4068,PRON,PER,his,Mr. Ebenezer Scrooge
+576,20,4093,4093,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+577,20,4096,4096,PRON,PER,his,Mr. Ebenezer Scrooge
+578,21,4124,4124,PROP,PER,Marley,Mr. Marley
+579,21,4128,4128,PROP,PER,Marley,Mr. Marley
+582,21,4165,4165,PRON,PER,It,Mr. Marley
+583,20,4175,4175,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+584,21,4177,4177,PROP,PER,Marley,Mr. Marley
+585,20,4258,4258,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+586,20,4274,4274,PRON,PER,he,Mr. Ebenezer Scrooge
+587,20,4281,4281,PRON,PER,his,Mr. Ebenezer Scrooge
+589,20,4305,4305,PRON,PER,he,Mr. Ebenezer Scrooge
+590,20,4307,4307,PRON,PER,his,Mr. Ebenezer Scrooge
+591,20,4312,4312,PRON,PER,he,Mr. Ebenezer Scrooge
+592,20,4325,4325,PRON,PER,his,Mr. Ebenezer Scrooge
+593,20,4328,4328,PRON,PER,He,Mr. Ebenezer Scrooge
+594,20,4341,4341,PRON,PER,he,Mr. Ebenezer Scrooge
+595,20,4347,4347,PRON,PER,he,Mr. Ebenezer Scrooge
+597,20,4359,4359,PRON,PER,he,Mr. Ebenezer Scrooge
+598,21,4369,4369,PROP,PER,Marley,Mr. Marley
+600,20,4401,4401,PRON,PER,he,Mr. Ebenezer Scrooge
+605,20,4454,4454,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+607,20,4465,4465,PRON,PER,He,Mr. Ebenezer Scrooge
+609,20,4486,4486,PRON,PER,his,Mr. Ebenezer Scrooge
+610,20,4489,4489,PRON,PER,he,Mr. Ebenezer Scrooge
+619,20,4579,4579,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+620,20,4581,4581,PRON,PER,he,Mr. Ebenezer Scrooge
+621,20,4589,4589,PRON,PER,him,Mr. Ebenezer Scrooge
+625,20,4625,4625,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+627,20,4630,4630,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+628,20,4645,4645,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+629,20,4652,4652,PRON,PER,he,Mr. Ebenezer Scrooge
+630,20,4654,4654,PRON,PER,his,Mr. Ebenezer Scrooge
+631,20,4658,4658,PRON,PER,he,Mr. Ebenezer Scrooge
+632,20,4661,4661,PRON,PER,his,Mr. Ebenezer Scrooge
+634,20,4670,4670,PRON,PER,He,Mr. Ebenezer Scrooge
+640,20,4729,4729,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+641,20,4734,4734,PRON,PER,his,Mr. Ebenezer Scrooge
+646,20,4753,4753,PRON,PER,his,Mr. Ebenezer Scrooge
+648,20,4802,4802,PRON,PER,he,Mr. Ebenezer Scrooge
+649,20,4804,4804,PRON,PER,his,Mr. Ebenezer Scrooge
+650,20,4809,4809,PRON,PER,himself,Mr. Ebenezer Scrooge
+651,20,4814,4814,PRON,PER,himself,Mr. Ebenezer Scrooge
+652,20,4820,4820,PRON,PER,his,Mr. Ebenezer Scrooge
+653,20,4828,4828,PRON,PER,he,Mr. Ebenezer Scrooge
+654,20,4831,4831,PRON,PER,his,Mr. Ebenezer Scrooge
+655,20,4836,4836,PRON,PER,his,Mr. Ebenezer Scrooge
+656,20,4844,4844,PRON,PER,his,Mr. Ebenezer Scrooge
+657,20,4855,4855,PRON,PER,his,Mr. Ebenezer Scrooge
+658,20,4873,4873,PRON,PER,He,Mr. Ebenezer Scrooge
+659,20,4888,4888,PRON,PER,he,Mr. Ebenezer Scrooge
+672,20,4979,4979,PRON,PER,his,Mr. Ebenezer Scrooge
+673,21,4987,4987,PROP,PER,Marley,Mr. Marley
+675,20,5032,5032,PRON,PER,his,Mr. Ebenezer Scrooge
+676,21,5043,5043,PROP,PER,Marley,Mr. Marley
+678,20,5055,5055,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+680,20,5066,5066,PRON,PER,he,Mr. Ebenezer Scrooge
+681,20,5072,5072,PRON,PER,he,Mr. Ebenezer Scrooge
+682,20,5074,5074,PRON,PER,his,Mr. Ebenezer Scrooge
+683,20,5081,5081,PRON,PER,his,Mr. Ebenezer Scrooge
+688,20,5137,5137,PRON,PER,he,Mr. Ebenezer Scrooge
+689,20,5140,5140,PRON,PER,he,Mr. Ebenezer Scrooge
+694,20,5237,5237,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+696,20,5266,5266,PRON,PER,he,Mr. Ebenezer Scrooge
+697,20,5287,5287,PRON,PER,his,Mr. Ebenezer Scrooge
+698,20,5298,5298,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+699,20,5301,5301,PRON,PER,I,Mr. Ebenezer Scrooge
+700,20,5308,5308,PRON,PER,His,Mr. Ebenezer Scrooge
+702,20,5333,5333,PRON,PER,his,Mr. Ebenezer Scrooge
+704,21,5355,5355,PRON,PER,him,Mr. Marley
+705,21,5357,5357,PROP,PER,Marley,Mr. Marley
+707,21,5374,5374,PROP,PER,Marley,Mr. Marley
+708,21,5376,5376,PRON,PER,his,Mr. Marley
+709,21,5395,5395,PRON,PER,his,Mr. Marley
+710,21,5399,5399,PRON,PER,his,Mr. Marley
+711,21,5408,5408,PRON,PER,his,Mr. Marley
+712,20,5413,5413,PRON,PER,he,Mr. Ebenezer Scrooge
+713,21,5418,5418,PRON,PER,his,Mr. Marley
+714,21,5428,5428,PRON,PER,him,Mr. Marley
+715,20,5439,5439,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+716,21,5464,5464,PRON,PER,His,Mr. Marley
+717,20,5471,5471,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+718,21,5474,5474,PRON,PER,him,Mr. Marley
+719,21,5479,5479,PRON,PER,his,Mr. Marley
+720,21,5488,5488,PRON,PER,his,Mr. Marley
+721,20,5492,5492,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+722,21,5499,5499,PROP,PER,Marley,Mr. Marley
+723,20,5505,5505,PRON,PER,he,Mr. Ebenezer Scrooge
+724,20,5517,5517,PRON,PER,he,Mr. Ebenezer Scrooge
+725,20,5524,5524,PRON,PER,he,Mr. Ebenezer Scrooge
+726,21,5534,5534,PRON,PER,it,Mr. Marley
+727,20,5537,5537,PRON,PER,him,Mr. Ebenezer Scrooge
+728,20,5540,5540,PRON,PER,he,Mr. Ebenezer Scrooge
+729,21,5563,5563,PRON,PER,its,Mr. Marley
+730,20,5570,5570,PRON,PER,he,Mr. Ebenezer Scrooge
+731,20,5576,5576,PRON,PER,he,Mr. Ebenezer Scrooge
+732,20,5584,5584,PRON,PER,his,Mr. Ebenezer Scrooge
+733,20,5593,5593,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+734,21,5604,5604,PRON,PER,you,Mr. Marley
+735,20,5607,5607,PRON,PER,me,Mr. Ebenezer Scrooge
+737,21,5623,5623,PRON,PER,you,Mr. Marley
+738,20,5628,5628,PRON,PER,me,Mr. Ebenezer Scrooge
+739,20,5630,5630,PRON,PER,I,Mr. Ebenezer Scrooge
+740,21,5641,5641,PRON,PER,you,Mr. Marley
+741,20,5647,5647,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+742,20,5650,5650,PRON,PER,his,Mr. Ebenezer Scrooge
+743,21,5654,5654,PRON,PER,You,Mr. Marley
+744,20,5663,5663,PRON,PER,He,Mr. Ebenezer Scrooge
+745,20,5687,5687,PRON,PER,I,Mr. Ebenezer Scrooge
+746,21,5689,5689,PRON,PER,your,Mr. Marley
+748,16,5692,5693,PROP,PER,Jacob Marley,Old Jacob Marley
+749,20,5698,5698,PRON,PER,you,Mr. Ebenezer Scrooge
+750,20,5701,5701,PRON,PER,you,Mr. Ebenezer Scrooge
+751,20,5707,5707,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+752,20,5712,5712,PRON,PER,him,Mr. Ebenezer Scrooge
+753,20,5715,5715,PRON,PER,I,Mr. Ebenezer Scrooge
+754,20,5726,5726,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+755,20,5732,5732,PRON,PER,he,Mr. Ebenezer Scrooge
+760,20,5796,5796,PRON,PER,You,Mr. Ebenezer Scrooge
+763,20,5809,5809,PRON,PER,I,Mr. Ebenezer Scrooge
+764,20,5815,5815,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+768,20,5835,5835,PRON,PER,I,Mr. Ebenezer Scrooge
+769,20,5842,5842,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+772,20,5858,5858,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+778,20,5919,5919,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+779,20,5932,5932,PRON,PER,he,Mr. Ebenezer Scrooge
+780,20,5935,5935,PRON,PER,his,Mr. Ebenezer Scrooge
+781,20,5948,5948,PRON,PER,he,Mr. Ebenezer Scrooge
+782,20,5959,5959,PRON,PER,his,Mr. Ebenezer Scrooge
+783,20,5966,5966,PRON,PER,his,Mr. Ebenezer Scrooge
+785,20,5979,5979,PRON,PER,his,Mr. Ebenezer Scrooge
+786,20,6001,6001,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+787,20,6008,6008,PRON,PER,him,Mr. Ebenezer Scrooge
+789,20,6029,6029,PRON,PER,his,Mr. Ebenezer Scrooge
+790,20,6032,6032,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+791,20,6037,6037,PRON,PER,himself,Mr. Ebenezer Scrooge
+792,14,6048,6049,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+794,20,6082,6082,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+795,20,6115,6115,PRON,PER,himself,Mr. Ebenezer Scrooge
+796,14,6118,6118,PRON,PER,I,MARLEY 'S GHOST Marley
+797,14,6123,6124,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+799,20,6136,6136,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+802,20,6158,6158,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+803,20,6161,6161,PRON,PER,I,Mr. Ebenezer Scrooge
+804,20,6174,6174,PRON,PER,my,Mr. Ebenezer Scrooge
+806,20,6185,6185,PRON,PER,my,Mr. Ebenezer Scrooge
+808,20,6191,6191,PRON,PER,I,Mr. Ebenezer Scrooge
+809,20,6193,6193,PRON,PER,you,Mr. Ebenezer Scrooge
+810,20,6220,6220,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+811,20,6225,6225,PRON,PER,his,Mr. Ebenezer Scrooge
+812,20,6230,6230,PRON,PER,himself,Mr. Ebenezer Scrooge
+813,20,6242,6242,PRON,PER,his,Mr. Ebenezer Scrooge
+814,20,6253,6253,PRON,PER,his,Mr. Ebenezer Scrooge
+815,20,6275,6275,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+816,20,6278,6278,PRON,PER,his,Mr. Ebenezer Scrooge
+817,20,6283,6283,PRON,PER,his,Mr. Ebenezer Scrooge
+818,20,6286,6286,PRON,PER,his,Mr. Ebenezer Scrooge
+819,20,6293,6293,PRON,PER,he,Mr. Ebenezer Scrooge
+822,20,6304,6304,PRON,PER,me,Mr. Ebenezer Scrooge
+825,20,6321,6321,PRON,PER,you,Mr. Ebenezer Scrooge
+827,20,6330,6330,PRON,PER,I,Mr. Ebenezer Scrooge
+828,20,6335,6335,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+829,20,6338,6338,PRON,PER,I,Mr. Ebenezer Scrooge
+833,20,6355,6355,PRON,PER,me,Mr. Ebenezer Scrooge
+843,20,6464,6464,PRON,PER,You,Mr. Ebenezer Scrooge
+844,20,6470,6470,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+845,20,6476,6476,PRON,PER,me,Mr. Ebenezer Scrooge
+846,14,6481,6481,PRON,PER,I,MARLEY 'S GHOST Marley
+847,14,6485,6485,PRON,PER,I,MARLEY 'S GHOST Marley
+848,14,6492,6493,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+849,14,6496,6496,PRON,PER,I,MARLEY 'S GHOST Marley
+852,14,6508,6508,PRON,PER,I,MARLEY 'S GHOST Marley
+853,14,6513,6513,PRON,PER,my,MARLEY 'S GHOST Marley
+854,14,6520,6520,PRON,PER,my,MARLEY 'S GHOST Marley
+855,14,6524,6524,PRON,PER,I,MARLEY 'S GHOST Marley
+856,20,6534,6534,PRON,PER,you,Mr. Ebenezer Scrooge
+857,20,6538,6538,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+858,20,6547,6547,PRON,PER,you,Mr. Ebenezer Scrooge
+860,20,6564,6564,PRON,PER,you,Mr. Ebenezer Scrooge
+861,20,6566,6566,PRON,PER,yourself,Mr. Ebenezer Scrooge
+862,20,6583,6583,PRON,PER,You,Mr. Ebenezer Scrooge
+863,20,6597,6597,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+864,20,6600,6600,PRON,PER,him,Mr. Ebenezer Scrooge
+865,20,6610,6610,PRON,PER,himself,Mr. Ebenezer Scrooge
+866,20,6623,6623,PRON,PER,he,Mr. Ebenezer Scrooge
+867,16,6629,6629,PROP,PER,Jacob,Old Jacob Marley
+868,20,6632,6632,PRON,PER,he,Mr. Ebenezer Scrooge
+869,16,6637,6639,PROP,PER,Old Jacob Marley,Old Jacob Marley
+870,20,6642,6642,PRON,PER,me,Mr. Ebenezer Scrooge
+871,20,6648,6648,PRON,PER,me,Mr. Ebenezer Scrooge
+872,16,6650,6650,PROP,PER,Jacob,Old Jacob Marley
+876,20,6672,6673,PROP,PER,Ebenezer Scrooge,Mr. Ebenezer Scrooge
+880,20,6692,6692,PRON,PER,you,Mr. Ebenezer Scrooge
+893,20,6764,6764,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+894,20,6767,6767,PRON,PER,he,Mr. Ebenezer Scrooge
+895,20,6773,6773,PRON,PER,his,Mr. Ebenezer Scrooge
+896,20,6776,6776,PRON,PER,his,Mr. Ebenezer Scrooge
+898,20,6788,6788,PRON,PER,he,Mr. Ebenezer Scrooge
+899,20,6797,6797,PRON,PER,his,Mr. Ebenezer Scrooge
+900,20,6803,6803,PRON,PER,his,Mr. Ebenezer Scrooge
+901,20,6807,6807,PRON,PER,You,Mr. Ebenezer Scrooge
+902,16,6816,6816,PROP,PER,Jacob,Old Jacob Marley
+903,20,6819,6819,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+905,20,6849,6849,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+907,20,6883,6883,PRON,PER,You,Mr. Ebenezer Scrooge
+908,20,6889,6889,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+909,14,6901,6902,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+910,20,6905,6905,PRON,PER,You,Mr. Ebenezer Scrooge
+911,20,6921,6921,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+917,14,7023,7023,PRON,PER,its,MARLEY 'S GHOST Marley
+918,14,7034,7034,PRON,PER,its,MARLEY 'S GHOST Marley
+919,14,7040,7040,PRON,PER,its,MARLEY 'S GHOST Marley
+922,20,7078,7078,PRON,PER,you,Mr. Ebenezer Scrooge
+924,16,7087,7087,PROP,PER,Jacob,Old Jacob Marley
+925,20,7091,7091,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+926,20,7100,7100,PRON,PER,himself,Mr. Ebenezer Scrooge
+927,14,7107,7108,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+929,14,7118,7118,PRON,PER,my,MARLEY 'S GHOST Marley
+930,14,7125,7125,PRON,PER,my,MARLEY 'S GHOST Marley
+931,14,7140,7140,PRON,PER,my,MARLEY 'S GHOST Marley
+932,14,7146,7146,PRON,PER,my,MARLEY 'S GHOST Marley
+933,14,7159,7159,PRON,PER,my,MARLEY 'S GHOST Marley
+934,14,7163,7163,PRON,PER,It,MARLEY 'S GHOST Marley
+946,20,7264,7264,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+948,14,7287,7287,PRON,PER,me,MARLEY 'S GHOST Marley
+949,14,7291,7292,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+950,14,7295,7295,PRON,PER,My,MARLEY 'S GHOST Marley
+951,20,7303,7303,PRON,PER,I,Mr. Ebenezer Scrooge
+952,20,7308,7308,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+953,20,7317,7317,PRON,PER,me,Mr. Ebenezer Scrooge
+954,16,7324,7324,PROP,PER,Jacob,Old Jacob Marley
+955,14,7334,7334,PRON,PER,I,MARLEY 'S GHOST Marley
+956,16,7337,7337,PRON,PER,you,Old Jacob Marley
+957,16,7342,7342,PRON,PER,you,Old Jacob Marley
+958,14,7346,7346,PRON,PER,I,MARLEY 'S GHOST Marley
+959,14,7351,7351,PRON,PER,I,MARLEY 'S GHOST Marley
+960,16,7356,7356,PRON,PER,you,Old Jacob Marley
+961,20,7371,7371,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+962,20,7379,7379,PRON,PER,his,Mr. Ebenezer Scrooge
+966,16,7406,7406,PRON,PER,you,Old Jacob Marley
+967,16,7408,7408,PRON,PER,you,Old Jacob Marley
+970,20,7428,7428,PROP,PER,Ebenezer,Mr. Ebenezer Scrooge
+973,20,7439,7439,PRON,PER,me,Mr. Ebenezer Scrooge
+974,20,7443,7443,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+976,16,7450,7450,PRON,PER,You,Old Jacob Marley
+979,20,7466,7466,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+980,14,7474,7475,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+981,14,7487,7487,PRON,PER,you,MARLEY 'S GHOST Marley
+982,16,7490,7490,PROP,PER,Jacob,Old Jacob Marley
+983,20,7493,7493,PRON,PER,he,Mr. Ebenezer Scrooge
+984,20,7506,7506,PRON,PER,I,Mr. Ebenezer Scrooge
+985,20,7508,7508,PRON,PER,I,Mr. Ebenezer Scrooge
+986,20,7510,7510,PRON,PER,I,Mr. Ebenezer Scrooge
+987,20,7517,7517,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+990,16,7530,7530,PRON,PER,you,Old Jacob Marley
+992,20,7557,7557,PRON,PER,I,Mr. Ebenezer Scrooge
+994,16,7569,7569,PROP,PER,Jacob,Old Jacob Marley
+995,20,7573,7573,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+997,16,7618,7618,PRON,PER,your,Old Jacob Marley
+998,16,7622,7622,PRON,PER,you,Old Jacob Marley
+1001,20,7656,7656,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1002,20,7676,7676,PRON,PER,He,Mr. Ebenezer Scrooge
+1003,20,7680,7680,PRON,PER,his,Mr. Ebenezer Scrooge
+1004,20,7686,7686,PRON,PER,his,Mr. Ebenezer Scrooge
+1006,20,7690,7690,PRON,PER,him,Mr. Ebenezer Scrooge
+1008,20,7711,7711,PRON,PER,him,Mr. Ebenezer Scrooge
+1009,20,7744,7744,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1010,20,7749,7749,PRON,PER,he,Mr. Ebenezer Scrooge
+1013,16,7762,7762,PROP,PER,Marley,Old Jacob Marley
+1014,20,7771,7771,PRON,PER,him,Mr. Ebenezer Scrooge
+1015,20,7777,7777,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1016,20,7800,7800,PRON,PER,he,Mr. Ebenezer Scrooge
+1018,20,7850,7850,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1019,20,7858,7858,PRON,PER,his,Mr. Ebenezer Scrooge
+1020,20,7861,7861,PRON,PER,He,Mr. Ebenezer Scrooge
+1024,16,7893,7893,PROP,PER,Marley,Old Jacob Marley
+1029,20,7920,7920,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1031,20,7925,7925,PRON,PER,He,Mr. Ebenezer Scrooge
+1039,20,8013,8013,PRON,PER,he,Mr. Ebenezer Scrooge
+1042,20,8036,8036,PRON,PER,he,Mr. Ebenezer Scrooge
+1044,20,8040,8040,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1046,20,8062,8062,PRON,PER,he,Mr. Ebenezer Scrooge
+1048,20,8067,8067,PRON,PER,his,Mr. Ebenezer Scrooge
+1049,20,8077,8077,PRON,PER,He,Mr. Ebenezer Scrooge
+1050,20,8098,8098,PRON,PER,he,Mr. Ebenezer Scrooge
+1051,20,8110,8110,PRON,PER,his,Mr. Ebenezer Scrooge
+1053,20,8159,8159,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1054,20,8173,8173,PRON,PER,he,Mr. Ebenezer Scrooge
+1055,20,8185,8185,PRON,PER,his,Mr. Ebenezer Scrooge
+1057,20,8188,8188,PRON,PER,He,Mr. Ebenezer Scrooge
+1058,20,8196,8196,PRON,PER,his,Mr. Ebenezer Scrooge
+1060,20,8213,8213,PRON,PER,he,Mr. Ebenezer Scrooge
+1061,20,8220,8220,PRON,PER,his,Mr. Ebenezer Scrooge
+1062,20,8256,8256,PRON,PER,he,Mr. Ebenezer Scrooge
+1063,20,8277,8277,PRON,PER,He,Mr. Ebenezer Scrooge
+1064,20,8282,8282,PRON,PER,his,Mr. Ebenezer Scrooge
+1065,20,8312,8312,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1066,20,8316,8316,PRON,PER,I,Mr. Ebenezer Scrooge
+1067,20,8357,8357,PRON,PER,he,Mr. Ebenezer Scrooge
+1068,20,8365,8365,PRON,PER,his,Mr. Ebenezer Scrooge
+1069,20,8371,8371,PRON,PER,He,Mr. Ebenezer Scrooge
+1070,20,8383,8383,PRON,PER,his,Mr. Ebenezer Scrooge
+1071,20,8388,8388,PRON,PER,he,Mr. Ebenezer Scrooge
+1072,20,8401,8401,PRON,PER,he,Mr. Ebenezer Scrooge
+1075,20,8476,8478,PROP,PER,Mr. Ebenezer Scrooge,Mr. Ebenezer Scrooge
+1076,20,8480,8480,PRON,PER,his,Mr. Ebenezer Scrooge
+1077,20,8505,8505,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1078,20,8533,8533,PRON,PER,he,Mr. Ebenezer Scrooge
+1079,20,8539,8539,PRON,PER,he,Mr. Ebenezer Scrooge
+1080,20,8546,8546,PRON,PER,he,Mr. Ebenezer Scrooge
+1081,20,8554,8554,PRON,PER,he,Mr. Ebenezer Scrooge
+1082,16,8557,8557,PROP,PER,Marley,Old Jacob Marley
+1083,20,8561,8561,PRON,PER,him,Mr. Ebenezer Scrooge
+1084,20,8566,8566,PRON,PER,he,Mr. Ebenezer Scrooge
+1085,20,8569,8569,PRON,PER,himself,Mr. Ebenezer Scrooge
+1086,20,8581,8581,PRON,PER,his,Mr. Ebenezer Scrooge
+1087,20,8618,8618,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1088,20,8634,8634,PRON,PER,he,Mr. Ebenezer Scrooge
+1090,20,8646,8646,PRON,PER,him,Mr. Ebenezer Scrooge
+1091,20,8656,8656,PRON,PER,He,Mr. Ebenezer Scrooge
+1092,20,8671,8671,PRON,PER,he,Mr. Ebenezer Scrooge
+1094,20,8692,8692,PRON,PER,his,Mr. Ebenezer Scrooge
+1095,20,8702,8702,PRON,PER,he,Mr. Ebenezer Scrooge
+1096,20,8708,8708,PRON,PER,he,Mr. Ebenezer Scrooge
+1097,20,8727,8727,PRON,PER,his,Mr. Ebenezer Scrooge
+1098,20,8744,8744,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1099,20,8760,8760,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1100,20,8776,8776,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1101,20,8791,8791,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1102,20,8800,8800,PRON,PER,He,Mr. Ebenezer Scrooge
+1104,20,8837,8837,PRON,PER,his,Mr. Ebenezer Scrooge
+1105,20,8845,8845,PRON,PER,his,Mr. Ebenezer Scrooge
+1108,20,8863,8863,PRON,PER,his,Mr. Ebenezer Scrooge
+1109,20,8870,8870,PRON,PER,his,Mr. Ebenezer Scrooge
+1110,20,8877,8877,PRON,PER,his,Mr. Ebenezer Scrooge
+1111,20,8885,8885,PRON,PER,his,Mr. Ebenezer Scrooge
+1112,20,8892,8892,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1113,20,8904,8904,PRON,PER,himself,Mr. Ebenezer Scrooge
+1123,20,8968,8968,PRON,PER,him,Mr. Ebenezer Scrooge
+1134,20,9191,9191,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1137,20,9321,9321,PRON,PER,you,Mr. Ebenezer Scrooge
+1140,20,9332,9332,PRON,PER,me,Mr. Ebenezer Scrooge
+1141,20,9336,9336,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1142,20,9339,9339,PRON,PER,I,Mr. Ebenezer Scrooge
+1143,20,9362,9362,PRON,PER,him,Mr. Ebenezer Scrooge
+1144,20,9375,9375,PRON,PER,you,Mr. Ebenezer Scrooge
+1145,20,9378,9378,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1146,20,9382,9382,PRON,PER,I,Mr. Ebenezer Scrooge
+1148,20,9397,9397,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1150,20,9408,9408,PRON,PER,Your,Mr. Ebenezer Scrooge
+1151,20,9413,9413,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1154,20,9426,9426,PRON,PER,him,Mr. Ebenezer Scrooge
+1155,20,9429,9429,PRON,PER,he,Mr. Ebenezer Scrooge
+1156,20,9439,9439,PRON,PER,his,Mr. Ebenezer Scrooge
+1157,20,9444,9444,PRON,PER,him,Mr. Ebenezer Scrooge
+1159,20,9459,9459,PRON,PER,you,Mr. Ebenezer Scrooge
+1161,20,9479,9479,PRON,PER,you,Mr. Ebenezer Scrooge
+1165,20,9507,9507,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1167,20,9529,9529,PRON,PER,his,Mr. Ebenezer Scrooge
+1168,20,9532,9532,PRON,PER,He,Mr. Ebenezer Scrooge
+1169,20,9541,9541,PRON,PER,him,Mr. Ebenezer Scrooge
+1171,20,9545,9545,PRON,PER,Your,Mr. Ebenezer Scrooge
+1173,20,9553,9553,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1174,20,9555,9555,PRON,PER,himself,Mr. Ebenezer Scrooge
+1175,34,9579,9580,PROP,PER,The Spirit,Good Spirit
+1176,20,9584,9584,PRON,PER,him,Mr. Ebenezer Scrooge
+1177,34,9588,9588,PRON,PER,it,Good Spirit
+1178,20,9592,9592,PRON,PER,Your,Mr. Ebenezer Scrooge
+1179,34,9601,9601,PRON,PER,It,Good Spirit
+1180,34,9604,9604,PRON,PER,its,Good Spirit
+1181,20,9613,9613,PRON,PER,him,Mr. Ebenezer Scrooge
+1182,34,9625,9625,PRON,PER,me,Good Spirit
+1183,20,9635,9635,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1184,20,9666,9666,PRON,PER,he,Mr. Ebenezer Scrooge
+1185,20,9672,9672,PRON,PER,his,Mr. Ebenezer Scrooge
+1186,20,9684,9684,PRON,PER,he,Mr. Ebenezer Scrooge
+1187,20,9689,9689,PRON,PER,him,Mr. Ebenezer Scrooge
+1189,20,9711,9711,PRON,PER,He,Mr. Ebenezer Scrooge
+1191,20,9732,9732,PRON,PER,I,Mr. Ebenezer Scrooge
+1193,20,9738,9738,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1196,20,9768,9768,PRON,PER,his,Mr. Ebenezer Scrooge
+1197,20,9773,9773,PRON,PER,you,Mr. Ebenezer Scrooge
+1202,20,9858,9858,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1203,20,9861,9861,PRON,PER,his,Mr. Ebenezer Scrooge
+1204,20,9866,9866,PRON,PER,he,Mr. Ebenezer Scrooge
+1205,20,9869,9869,PRON,PER,him,Mr. Ebenezer Scrooge
+1206,20,9872,9872,PRON,PER,I,Mr. Ebenezer Scrooge
+1208,20,9879,9879,PRON,PER,I,Mr. Ebenezer Scrooge
+1211,34,9886,9887,PROP,PER,The Spirit,Good Spirit
+1212,20,9890,9890,PRON,PER,him,Mr. Ebenezer Scrooge
+1214,20,9917,9917,PRON,PER,He,Mr. Ebenezer Scrooge
+1215,20,9951,9951,PRON,PER,Your,Mr. Ebenezer Scrooge
+1217,20,9967,9967,PRON,PER,your,Mr. Ebenezer Scrooge
+1218,20,9971,9971,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1219,20,9979,9979,PRON,PER,his,Mr. Ebenezer Scrooge
+1220,14,9990,9991,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1221,20,9994,9994,PRON,PER,him,Mr. Ebenezer Scrooge
+1222,20,9996,9996,PRON,PER,he,Mr. Ebenezer Scrooge
+1223,20,10000,10000,PRON,PER,You,Mr. Ebenezer Scrooge
+1225,20,10016,10016,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1226,20,10021,10021,PRON,PER,I,Mr. Ebenezer Scrooge
+1227,14,10041,10042,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1231,20,10057,10057,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1251,20,10191,10191,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1254,20,10201,10201,PRON,PER,he,Mr. Ebenezer Scrooge
+1256,20,10212,10212,PRON,PER,his,Mr. Ebenezer Scrooge
+1257,20,10218,10218,PRON,PER,his,Mr. Ebenezer Scrooge
+1259,20,10229,10229,PRON,PER,he,Mr. Ebenezer Scrooge
+1260,20,10234,10234,PRON,PER,he,Mr. Ebenezer Scrooge
+1267,20,10264,10264,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1268,20,10278,10278,PRON,PER,him,Mr. Ebenezer Scrooge
+1274,20,10309,10309,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1275,20,10311,10311,PRON,PER,he,Mr. Ebenezer Scrooge
+1276,20,10316,10316,PRON,PER,he,Mr. Ebenezer Scrooge
+1297,20,10496,10496,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1304,20,10554,10554,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1305,20,10565,10565,PRON,PER,his,Mr. Ebenezer Scrooge
+1306,20,10570,10570,PRON,PER,he,Mr. Ebenezer Scrooge
+1311,20,10648,10648,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1312,20,10659,10659,PRON,PER,his,Mr. Ebenezer Scrooge
+1313,34,10662,10663,PROP,PER,The Spirit,Good Spirit
+1314,20,10665,10665,PRON,PER,him,Mr. Ebenezer Scrooge
+1315,20,10673,10673,PRON,PER,his,Mr. Ebenezer Scrooge
+1317,20,10679,10679,PRON,PER,his,Mr. Ebenezer Scrooge
+1321,20,10730,10730,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1323,20,10748,10748,PRON,PER,I,Mr. Ebenezer Scrooge
+1329,20,10789,10789,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1344,20,10854,10854,PRON,PER,I,Mr. Ebenezer Scrooge
+1347,20,10874,10874,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1348,20,10880,10880,PRON,PER,his,Mr. Ebenezer Scrooge
+1349,20,10899,10899,PRON,PER,his,Mr. Ebenezer Scrooge
+1350,20,10911,10911,PRON,PER,his,Mr. Ebenezer Scrooge
+1354,20,10928,10928,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1380,20,11062,11062,PRON,PER,I,Mr. Ebenezer Scrooge
+1381,20,11066,11066,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1382,20,11070,11070,PRON,PER,his,Mr. Ebenezer Scrooge
+1383,20,11073,11073,PRON,PER,his,Mr. Ebenezer Scrooge
+1384,20,11079,11079,PRON,PER,him,Mr. Ebenezer Scrooge
+1385,20,11083,11083,PRON,PER,his,Mr. Ebenezer Scrooge
+1386,20,11086,11086,PRON,PER,his,Mr. Ebenezer Scrooge
+1388,20,11114,11114,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1390,20,11128,11128,PRON,PER,my,Mr. Ebenezer Scrooge
+1391,20,11133,11133,PRON,PER,I,Mr. Ebenezer Scrooge
+1393,14,11147,11148,PROP,PER,The Ghost,MARLEY 'S GHOST Marley
+1394,14,11154,11154,PRON,PER,its,MARLEY 'S GHOST Marley
+1396,20,11171,11171,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1399,20,11224,11224,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1401,20,11232,11232,PRON,PER,He,Mr. Ebenezer Scrooge
+1402,20,11249,11249,PRON,PER,he,Mr. Ebenezer Scrooge
+1405,20,11268,11268,PRON,PER,He,Mr. Ebenezer Scrooge
+1406,20,11281,11281,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1407,14,11284,11285,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1408,20,11294,11294,PRON,PER,his,Mr. Ebenezer Scrooge
+1471,20,11620,11621,PROP,PER,Master Scrooge,Mr. Ebenezer Scrooge
+1476,20,11640,11641,PROP,PER,Master Scrooge,Mr. Ebenezer Scrooge
+1492,20,11783,11784,PROP,PER,Master Scrooge,Mr. Ebenezer Scrooge
+1501,20,11879,11879,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1504,34,11892,11892,PROP,PER,Spirit,Good Spirit
+1511,20,11925,11925,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1513,20,11937,11937,PRON,PER,Your,Mr. Ebenezer Scrooge
+1515,20,11941,11941,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1516,20,11945,11945,PRON,PER,his,Mr. Ebenezer Scrooge
+1529,14,12047,12048,PROP,PER,The Ghost,MARLEY 'S GHOST Marley
+1531,20,12058,12058,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1532,20,12060,12060,PRON,PER,he,Mr. Ebenezer Scrooge
+1533,20,12070,12070,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1534,20,12074,12074,PRON,PER,I,Mr. Ebenezer Scrooge
+1541,20,12120,12120,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1542,43,12130,12131,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1543,43,12134,12134,PRON,PER,his,Mrs. Fezziwig
+1544,43,12139,12139,PROP,PER,Fezziwig,Mrs. Fezziwig
+1545,43,12144,12145,PROP,PER,Old Fezziwig,Mrs. Fezziwig
+1546,43,12148,12148,PRON,PER,his,Mrs. Fezziwig
+1547,43,12166,12166,PRON,PER,He,Mrs. Fezziwig
+1548,43,12168,12168,PRON,PER,his,Mrs. Fezziwig
+1549,43,12172,12172,PRON,PER,his,Mrs. Fezziwig
+1550,43,12179,12179,PRON,PER,himself,Mrs. Fezziwig
+1551,43,12182,12182,PRON,PER,his,Mrs. Fezziwig
+1552,43,12185,12185,PRON,PER,his,Mrs. Fezziwig
+1553,20,12207,12207,PRON,PER,Yo,Mr. Ebenezer Scrooge
+1554,20,12212,12212,PROP,PER,Ebenezer,Mr. Ebenezer Scrooge
+1556,20,12217,12217,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1562,20,12247,12247,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1564,20,12254,12254,PRON,PER,me,Mr. Ebenezer Scrooge
+1567,20,12268,12268,PRON,PER,me,Mr. Ebenezer Scrooge
+1573,43,12285,12285,PRON,PER,my,Mrs. Fezziwig
+1575,43,12290,12290,PROP,PER,Fezziwig,Mrs. Fezziwig
+1577,20,12307,12307,PROP,PER,Ebenezer,Mr. Ebenezer Scrooge
+1578,43,12318,12319,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1589,43,12413,12414,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1590,43,12430,12430,PRON,PER,my,Mrs. Fezziwig
+1599,43,12474,12475,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1603,43,12588,12589,PROP,PER,Mrs. Fezziwig,Mrs. Fezziwig
+1637,43,12823,12824,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1656,43,13026,13027,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1657,43,13033,13034,PROP,PER,Mrs. Fezziwig,Mrs. Fezziwig
+1664,43,13097,13098,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1666,43,13110,13111,PROP,PER,Mrs. Fezziwig,Mrs. Fezziwig
+1667,43,13116,13116,PRON,PER,her,Mrs. Fezziwig
+1668,43,13119,13119,PRON,PER,she,Mrs. Fezziwig
+1673,43,13157,13157,PROP,PER,Fezziwig,Mrs. Fezziwig
+1676,43,13192,13193,PROP,PER,old Fezziwig,Mrs. Fezziwig
+1677,43,13195,13196,PROP,PER,Mrs. Fezziwig,Mrs. Fezziwig
+1681,43,13235,13235,PROP,PER,Fezziwig,Mrs. Fezziwig
+1686,43,13274,13275,PROP,PER,Mrs. Fezziwig,Mrs. Fezziwig
+1700,20,13361,13361,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1702,20,13369,13369,PRON,PER,his,Mr. Ebenezer Scrooge
+1703,20,13372,13372,PRON,PER,His,Mr. Ebenezer Scrooge
+1704,20,13383,13383,PRON,PER,his,Mr. Ebenezer Scrooge
+1705,20,13387,13387,PRON,PER,He,Mr. Ebenezer Scrooge
+1706,20,13414,13414,PRON,PER,his,Mr. Ebenezer Scrooge
+1710,20,13425,13425,PRON,PER,he,Mr. Ebenezer Scrooge
+1712,20,13439,13439,PRON,PER,him,Mr. Ebenezer Scrooge
+1713,14,13458,13459,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1715,20,13478,13478,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1716,34,13480,13481,PROP,PER,The Spirit,Good Spirit
+1717,20,13484,13484,PRON,PER,him,Mr. Ebenezer Scrooge
+1720,43,13501,13501,PROP,PER,Fezziwig,Mrs. Fezziwig
+1721,34,13505,13505,PRON,PER,he,Good Spirit
+1722,20,13519,13519,PRON,PER,He,Mr. Ebenezer Scrooge
+1723,34,13527,13527,PRON,PER,your,Good Spirit
+1724,20,13542,13542,PRON,PER,he,Mr. Ebenezer Scrooge
+1725,20,13556,13556,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1726,20,13567,13567,PRON,PER,his,Mr. Ebenezer Scrooge
+1727,20,13571,13571,PRON,PER,his,Mr. Ebenezer Scrooge
+1729,34,13581,13581,PROP,PER,Spirit,Good Spirit
+1730,20,13583,13583,PRON,PER,He,Mr. Ebenezer Scrooge
+1733,20,13610,13610,PRON,PER,his,Mr. Ebenezer Scrooge
+1734,20,13640,13640,PRON,PER,he,Mr. Ebenezer Scrooge
+1735,20,13654,13654,PRON,PER,He,Mr. Ebenezer Scrooge
+1738,20,13681,13681,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1739,14,13686,13686,PRON,PER,I,MARLEY 'S GHOST Marley
+1740,14,13690,13691,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1741,20,13699,13699,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1742,20,13704,13704,PRON,PER,I,Mr. Ebenezer Scrooge
+1743,20,13717,13717,PRON,PER,my,Mr. Ebenezer Scrooge
+1745,20,13727,13727,PRON,PER,His,Mr. Ebenezer Scrooge
+1747,20,13735,13735,PRON,PER,he,Mr. Ebenezer Scrooge
+1748,20,13743,13743,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1752,20,13777,13777,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1754,20,13784,13784,PRON,PER,he,Mr. Ebenezer Scrooge
+1755,20,13797,13797,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1756,20,13799,13799,PRON,PER,himself,Mr. Ebenezer Scrooge
+1757,20,13801,13801,PRON,PER,He,Mr. Ebenezer Scrooge
+1759,20,13814,13814,PRON,PER,His,Mr. Ebenezer Scrooge
+1760,20,13873,13873,PRON,PER,He,Mr. Ebenezer Scrooge
+1763,20,13927,13927,PRON,PER,you,Mr. Ebenezer Scrooge
+1765,20,13946,13946,PRON,PER,you,Mr. Ebenezer Scrooge
+1769,20,13976,13976,PRON,PER,he,Mr. Ebenezer Scrooge
+1771,20,13998,13998,PRON,PER,he,Mr. Ebenezer Scrooge
+1772,20,14033,14033,PRON,PER,You,Mr. Ebenezer Scrooge
+1775,20,14047,14047,PRON,PER,your,Mr. Ebenezer Scrooge
+1777,20,14068,14068,PRON,PER,your,Mr. Ebenezer Scrooge
+1778,20,14085,14085,PRON,PER,you,Mr. Ebenezer Scrooge
+1780,20,14097,14097,PRON,PER,he,Mr. Ebenezer Scrooge
+1781,20,14103,14103,PRON,PER,I,Mr. Ebenezer Scrooge
+1782,20,14113,14113,PRON,PER,I,Mr. Ebenezer Scrooge
+1783,20,14118,14118,PRON,PER,you,Mr. Ebenezer Scrooge
+1792,20,14171,14171,PRON,PER,You,Mr. Ebenezer Scrooge
+1793,20,14181,14181,PRON,PER,you,Mr. Ebenezer Scrooge
+1795,20,14188,14188,PRON,PER,I,Mr. Ebenezer Scrooge
+1797,20,14194,14194,PRON,PER,he,Mr. Ebenezer Scrooge
+1798,20,14199,14199,PRON,PER,Your,Mr. Ebenezer Scrooge
+1799,20,14203,14203,PRON,PER,you,Mr. Ebenezer Scrooge
+1800,20,14205,14205,PRON,PER,you,Mr. Ebenezer Scrooge
+1801,20,14209,14209,PRON,PER,you,Mr. Ebenezer Scrooge
+1810,20,14270,14270,PRON,PER,you,Mr. Ebenezer Scrooge
+1813,20,14333,14333,PRON,PER,your,Mr. Ebenezer Scrooge
+1816,20,14357,14357,PRON,PER,him,Mr. Ebenezer Scrooge
+1818,20,14364,14364,PRON,PER,you,Mr. Ebenezer Scrooge
+1821,20,14380,14380,PRON,PER,He,Mr. Ebenezer Scrooge
+1822,20,14393,14393,PRON,PER,himself,Mr. Ebenezer Scrooge
+1823,20,14396,14396,PRON,PER,he,Mr. Ebenezer Scrooge
+1828,20,14429,14429,PRON,PER,I,Mr. Ebenezer Scrooge
+1829,20,14438,14438,PRON,PER,I,Mr. Ebenezer Scrooge
+1830,20,14450,14450,PRON,PER,you,Mr. Ebenezer Scrooge
+1831,20,14465,14465,PRON,PER,I,Mr. Ebenezer Scrooge
+1832,20,14468,14468,PRON,PER,you,Mr. Ebenezer Scrooge
+1834,20,14475,14475,PRON,PER,you,Mr. Ebenezer Scrooge
+1835,20,14479,14479,PRON,PER,your,Mr. Ebenezer Scrooge
+1838,20,14499,14499,PRON,PER,you,Mr. Ebenezer Scrooge
+1839,20,14504,14504,PRON,PER,your,Mr. Ebenezer Scrooge
+1840,20,14513,14513,PRON,PER,I,Mr. Ebenezer Scrooge
+1841,20,14517,14517,PRON,PER,your,Mr. Ebenezer Scrooge
+1842,20,14525,14525,PRON,PER,I,Mr. Ebenezer Scrooge
+1843,20,14529,14529,PRON,PER,I,Mr. Ebenezer Scrooge
+1844,20,14531,14531,PRON,PER,you,Mr. Ebenezer Scrooge
+1846,20,14543,14543,PRON,PER,you,Mr. Ebenezer Scrooge
+1861,34,14640,14640,PROP,PER,Spirit,Good Spirit
+1862,20,14644,14644,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1863,20,14648,14648,PRON,PER,me,Mr. Ebenezer Scrooge
+1864,20,14653,14653,PRON,PER,me,Mr. Ebenezer Scrooge
+1866,14,14658,14658,PRON,PER,you,MARLEY 'S GHOST Marley
+1867,20,14662,14662,PRON,PER,me,Mr. Ebenezer Scrooge
+1868,14,14672,14673,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1869,20,14681,14681,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1870,20,14687,14687,PRON,PER,I,Mr. Ebenezer Scrooge
+1871,20,14696,14696,PRON,PER,me,Mr. Ebenezer Scrooge
+1879,20,14759,14759,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1880,20,14767,14767,PRON,PER,he,Mr. Ebenezer Scrooge
+1887,20,14799,14799,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1888,20,14801,14801,PRON,PER,his,Mr. Ebenezer Scrooge
+1944,20,15361,15361,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1954,20,15398,15398,PRON,PER,he,Mr. Ebenezer Scrooge
+1956,20,15417,15417,PRON,PER,him,Mr. Ebenezer Scrooge
+1958,20,15431,15431,PRON,PER,his,Mr. Ebenezer Scrooge
+1959,20,15434,15434,PRON,PER,his,Mr. Ebenezer Scrooge
+1970,20,15505,15506,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+1971,20,15510,15511,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+1973,20,15517,15517,PRON,PER,his,Mr. Ebenezer Scrooge
+1975,20,15530,15530,PRON,PER,he,Mr. Ebenezer Scrooge
+1977,20,15541,15541,PRON,PER,him,Mr. Ebenezer Scrooge
+1978,20,15543,15543,PRON,PER,His,Mr. Ebenezer Scrooge
+1981,20,15557,15557,PRON,PER,he,Mr. Ebenezer Scrooge
+1984,34,15573,15573,PROP,PER,Spirit,Good Spirit
+1985,20,15577,15577,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1986,20,15585,15585,PRON,PER,me,Mr. Ebenezer Scrooge
+1989,20,15594,15594,PRON,PER,you,Mr. Ebenezer Scrooge
+1993,20,15625,15625,PRON,PER,me,Mr. Ebenezer Scrooge
+1994,20,15628,15628,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+1995,20,15632,15632,PRON,PER,I,Mr. Ebenezer Scrooge
+1996,20,15639,15639,PRON,PER,He,Mr. Ebenezer Scrooge
+1997,14,15642,15643,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+1998,20,15651,15651,PRON,PER,him,Mr. Ebenezer Scrooge
+1999,20,15672,15672,PRON,PER,him,Mr. Ebenezer Scrooge
+2000,20,15680,15680,PRON,PER,me,Mr. Ebenezer Scrooge
+2001,20,15683,15683,PRON,PER,me,Mr. Ebenezer Scrooge
+2002,20,15687,15687,PRON,PER,me,Mr. Ebenezer Scrooge
+2003,14,15712,15712,PRON,PER,its,MARLEY 'S GHOST Marley
+2004,14,15721,15721,PRON,PER,its,MARLEY 'S GHOST Marley
+2006,20,15724,15724,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2007,20,15743,15743,PRON,PER,him,Mr. Ebenezer Scrooge
+2008,20,15745,15745,PRON,PER,he,Mr. Ebenezer Scrooge
+2010,20,15781,15781,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2011,20,15787,15787,PRON,PER,his,Mr. Ebenezer Scrooge
+2012,20,15790,15790,PRON,PER,he,Mr. Ebenezer Scrooge
+2013,20,15811,15811,PRON,PER,He,Mr. Ebenezer Scrooge
+2014,20,15832,15832,PRON,PER,his,Mr. Ebenezer Scrooge
+2016,20,15836,15836,PRON,PER,He,Mr. Ebenezer Scrooge
+2017,20,15846,15846,PRON,PER,his,Mr. Ebenezer Scrooge
+2018,20,15860,15860,PRON,PER,he,Mr. Ebenezer Scrooge
+2020,20,15890,15890,PRON,PER,his,Mr. Ebenezer Scrooge
+2021,20,15894,15894,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2023,20,15912,15912,PRON,PER,He,Mr. Ebenezer Scrooge
+2024,20,15915,15915,PRON,PER,he,Mr. Ebenezer Scrooge
+2026,20,15941,15941,PRON,PER,him,Mr. Ebenezer Scrooge
+2027,16,15943,15944,PROP,PER,Jacob Marley,Old Jacob Marley
+2028,20,15951,15951,PRON,PER,he,Mr. Ebenezer Scrooge
+2029,20,15956,15956,PRON,PER,he,Mr. Ebenezer Scrooge
+2030,20,15962,15962,PRON,PER,his,Mr. Ebenezer Scrooge
+2032,20,15971,15971,PRON,PER,he,Mr. Ebenezer Scrooge
+2033,20,15978,15978,PRON,PER,his,Mr. Ebenezer Scrooge
+2034,20,16000,16000,PRON,PER,he,Mr. Ebenezer Scrooge
+2035,34,16004,16005,PROP,PER,the Spirit,Good Spirit
+2041,20,16106,16106,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2044,20,16123,16123,PRON,PER,he,Mr. Ebenezer Scrooge
+2046,20,16147,16147,PRON,PER,him,Mr. Ebenezer Scrooge
+2047,20,16159,16159,PRON,PER,he,Mr. Ebenezer Scrooge
+2048,20,16183,16183,PRON,PER,he,Mr. Ebenezer Scrooge
+2049,20,16214,16214,PRON,PER,he,Mr. Ebenezer Scrooge
+2050,20,16217,16217,PRON,PER,his,Mr. Ebenezer Scrooge
+2051,20,16259,16259,PRON,PER,he,Mr. Ebenezer Scrooge
+2052,20,16279,16279,PRON,PER,he,Mr. Ebenezer Scrooge
+2053,20,16306,16306,PRON,PER,he,Mr. Ebenezer Scrooge
+2058,20,16356,16356,PRON,PER,he,Mr. Ebenezer Scrooge
+2060,20,16395,16395,PRON,PER,his,Mr. Ebenezer Scrooge
+2061,20,16398,16398,PRON,PER,he,Mr. Ebenezer Scrooge
+2062,20,16406,16406,PRON,PER,his,Mr. Ebenezer Scrooge
+2063,20,16414,16414,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2064,20,16425,16425,PRON,PER,him,Mr. Ebenezer Scrooge
+2065,20,16427,16427,PRON,PER,his,Mr. Ebenezer Scrooge
+2066,20,16432,16432,PRON,PER,him,Mr. Ebenezer Scrooge
+2067,20,16435,16435,PRON,PER,He,Mr. Ebenezer Scrooge
+2068,20,16440,16440,PRON,PER,his,Mr. Ebenezer Scrooge
+2072,20,16534,16534,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2073,16,16539,16539,PROP,PER,Marley,Old Jacob Marley
+2077,20,16682,16682,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2078,20,16684,16684,PRON,PER,he,Mr. Ebenezer Scrooge
+2082,20,16712,16712,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2083,20,16718,16718,PRON,PER,his,Mr. Ebenezer Scrooge
+2085,20,16724,16724,PRON,PER,He,Mr. Ebenezer Scrooge
+2087,20,16730,16730,PRON,PER,he,Mr. Ebenezer Scrooge
+2088,34,16736,16737,PROP,PER,the Spirit,Good Spirit
+2089,20,16745,16745,PRON,PER,he,Mr. Ebenezer Scrooge
+2090,34,16754,16754,PRON,PER,I,Good Spirit
+2092,34,16764,16765,PROP,PER,the Spirit,Good Spirit
+2093,34,16770,16770,PRON,PER,me,Good Spirit
+2094,20,16773,16773,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2101,20,16926,16926,PRON,PER,You,Mr. Ebenezer Scrooge
+2102,34,16933,16933,PRON,PER,me,Good Spirit
+2103,34,16938,16939,PROP,PER,the Spirit,Good Spirit
+2104,20,16945,16945,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2112,20,16987,16987,PRON,PER,I,Mr. Ebenezer Scrooge
+2113,20,16991,16991,PRON,PER,I,Mr. Ebenezer Scrooge
+2114,20,16996,16996,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2115,20,16999,16999,PRON,PER,I,Mr. Ebenezer Scrooge
+2116,20,17002,17002,PRON,PER,I,Mr. Ebenezer Scrooge
+2119,34,17012,17012,PROP,PER,Spirit,Good Spirit
+2122,20,17036,17036,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2124,34,17046,17046,PROP,PER,Spirit,Good Spirit
+2125,20,17050,17050,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2126,20,17055,17055,PRON,PER,me,Mr. Ebenezer Scrooge
+2127,34,17057,17057,PRON,PER,you,Good Spirit
+2128,20,17060,17060,PRON,PER,I,Mr. Ebenezer Scrooge
+2129,20,17069,17069,PRON,PER,I,Mr. Ebenezer Scrooge
+2130,34,17082,17082,PRON,PER,you,Good Spirit
+2131,20,17087,17087,PRON,PER,me,Mr. Ebenezer Scrooge
+2132,20,17090,17090,PRON,PER,me,Mr. Ebenezer Scrooge
+2134,20,17102,17102,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2135,20,17105,17105,PRON,PER,he,Mr. Ebenezer Scrooge
+2210,20,18164,18164,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2230,20,18345,18345,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2231,20,18351,18351,PRON,PER,My,Mr. Ebenezer Scrooge
+2232,20,18370,18370,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2235,20,18395,18395,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2236,34,18406,18406,PROP,PER,Spirit,Good Spirit
+2237,20,18410,18410,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2238,20,18419,18419,PRON,PER,I,Mr. Ebenezer Scrooge
+2239,34,18421,18421,PRON,PER,you,Good Spirit
+2246,34,18455,18455,PRON,PER,You,Good Spirit
+2250,20,18485,18485,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2251,34,18490,18490,PRON,PER,you,Good Spirit
+2254,34,18502,18502,PRON,PER,You,Good Spirit
+2255,20,18515,18515,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2258,20,18538,18538,PRON,PER,me,Mr. Ebenezer Scrooge
+2259,20,18540,18540,PRON,PER,I,Mr. Ebenezer Scrooge
+2260,34,18549,18549,PRON,PER,your,Good Spirit
+2261,34,18558,18558,PRON,PER,your,Good Spirit
+2263,20,18563,18563,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2265,34,18573,18573,PRON,PER,yours,Good Spirit
+2277,20,18649,18649,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2278,20,18652,18652,PRON,PER,he,Mr. Ebenezer Scrooge
+2283,20,18685,18685,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2285,20,18696,18696,PRON,PER,his,Mr. Ebenezer Scrooge
+2286,20,18700,18700,PRON,PER,he,Mr. Ebenezer Scrooge
+2287,20,18703,18703,PRON,PER,himself,Mr. Ebenezer Scrooge
+2288,20,18712,18712,PRON,PER,he,Mr. Ebenezer Scrooge
+2289,20,18730,18730,PRON,PER,he,Mr. Ebenezer Scrooge
+2292,20,18755,18755,PRON,PER,his,Mr. Ebenezer Scrooge
+2293,20,18761,18761,PRON,PER,his,Mr. Ebenezer Scrooge
+2294,20,18771,18771,PRON,PER,his,Mr. Ebenezer Scrooge
+2296,20,18780,18780,PRON,PER,him,Mr. Ebenezer Scrooge
+2297,20,18783,18783,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2299,20,18790,18790,PRON,PER,he,Mr. Ebenezer Scrooge
+2300,20,18795,18795,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2301,20,18797,18797,PRON,PER,him,Mr. Ebenezer Scrooge
+2302,20,18801,18801,PRON,PER,his,Mr. Ebenezer Scrooge
+2303,34,18811,18812,PROP,PER,the Spirit,Good Spirit
+2304,54,18819,18820,PROP,PER,Bob Cratchit,Bob Cratchit
+2306,34,18827,18827,PRON,PER,his,Good Spirit
+2307,54,18834,18834,PROP,PER,Bob,Bob Cratchit
+2308,54,18839,18839,PROP,PER,Bob,Bob Cratchit
+2309,54,18843,18843,PRON,PER,himself,Bob Cratchit
+2310,54,18845,18845,PRON,PER,he,Bob Cratchit
+2311,54,18853,18853,PRON,PER,his,Bob Cratchit
+2312,54,18865,18865,PRON,PER,his,Bob Cratchit
+2314,55,18874,18875,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2315,55,18877,18877,PROP,PER,Cratchit,Mrs. Cratchit
+2317,55,18910,18910,PRON,PER,she,Mrs. Cratchit
+2320,55,18922,18922,PRON,PER,her,Mrs. Cratchit
+2322,57,18931,18933,PROP,PER,Master Peter Cratchit,Master Peter Cratchit
+2323,57,18948,18948,PRON,PER,his,Master Peter Cratchit
+2324,54,18954,18954,PROP,PER,Bob,Bob Cratchit
+2326,57,18961,18961,PRON,PER,his,Master Peter Cratchit
+2328,57,18973,18973,PRON,PER,his,Master Peter Cratchit
+2329,57,18979,18979,PRON,PER,himself,Master Peter Cratchit
+2330,57,18988,18988,PRON,PER,his,Master Peter Cratchit
+2339,57,19048,19050,PROP,PER,Master Peter Cratchit,Master Peter Cratchit
+2340,57,19056,19056,PRON,PER,he,Master Peter Cratchit
+2341,57,19062,19062,PRON,PER,his,Master Peter Cratchit
+2342,57,19066,19066,PRON,PER,him,Master Peter Cratchit
+2343,55,19099,19099,PRON,PER,your,Mrs. Cratchit
+2345,55,19107,19108,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2346,55,19112,19112,PRON,PER,your,Mrs. Cratchit
+2348,58,19115,19116,PROP,PER,Tiny Tim,poor Tiny Tim
+2349,59,19119,19120,PROP,PER,Martha warn't,Martha warn't
+2350,59,19135,19135,PROP,PER,Martha,Martha warn't
+2354,59,19152,19152,PROP,PER,Martha,Martha warn't
+2357,59,19174,19174,PROP,PER,Martha,Martha warn't
+2358,59,19181,19181,PRON,PER,your,Martha warn't
+2359,55,19185,19185,PRON,PER,my,Mrs. Cratchit
+2361,59,19190,19190,PRON,PER,you,Martha warn't
+2362,55,19195,19196,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2369,59,19255,19255,PRON,PER,you,Martha warn't
+2370,55,19261,19262,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2371,59,19266,19266,PRON,PER,ye,Martha warn't
+2372,55,19272,19272,PRON,PER,my,Mrs. Cratchit
+2375,59,19282,19282,PRON,PER,ye,Martha warn't
+2378,59,19311,19311,PROP,PER,Martha,Martha warn't
+2379,59,19317,19317,PROP,PER,Martha,Martha warn't
+2380,59,19319,19319,PRON,PER,herself,Martha warn't
+2381,54,19324,19325,PROP,PER,little Bob,Bob Cratchit
+2383,54,19346,19346,PRON,PER,him,Bob Cratchit
+2384,54,19349,19349,PRON,PER,his,Bob Cratchit
+2385,58,19361,19362,PROP,PER,Tiny Tim,poor Tiny Tim
+2386,54,19364,19364,PRON,PER,his,Bob Cratchit
+2387,58,19369,19370,PROP,PER,Tiny Tim,poor Tiny Tim
+2388,58,19372,19372,PRON,PER,he,poor Tiny Tim
+2389,58,19380,19380,PRON,PER,his,poor Tiny Tim
+2392,59,19394,19394,PROP,PER,Martha,Martha warn't
+2393,54,19398,19399,PROP,PER,Bob Cratchit,Bob Cratchit
+2394,55,19410,19411,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2395,54,19419,19419,PROP,PER,Bob,Bob Cratchit
+2396,54,19426,19426,PRON,PER,his,Bob Cratchit
+2397,54,19431,19431,PRON,PER,he,Bob Cratchit
+2398,58,19434,19434,PROP,PER,Tim,poor Tiny Tim
+2401,59,19459,19459,PROP,PER,Martha,Martha warn't
+2403,59,19476,19476,PRON,PER,she,Martha warn't
+2406,58,19498,19499,PROP,PER,Tiny Tim,poor Tiny Tim
+2407,58,19503,19503,PRON,PER,him,poor Tiny Tim
+2410,58,19526,19527,PROP,PER,little Tim,poor Tiny Tim
+2411,55,19532,19533,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2412,55,19535,19535,PRON,PER,she,Mrs. Cratchit
+2413,54,19538,19538,PROP,PER,Bob,Bob Cratchit
+2414,54,19540,19540,PRON,PER,his,Bob Cratchit
+2415,54,19544,19544,PROP,PER,Bob,Bob Cratchit
+2416,54,19547,19547,PRON,PER,his,Bob Cratchit
+2418,54,19550,19550,PRON,PER,his,Bob Cratchit
+2419,54,19563,19563,PROP,PER,Bob,Bob Cratchit
+2424,54,19592,19592,PRON,PER,me,Bob Cratchit
+2435,54,19637,19637,PROP,PER,Bob,Bob Cratchit
+2436,54,19643,19643,PRON,PER,he,Bob Cratchit
+2438,54,19652,19652,PRON,PER,he,Bob Cratchit
+2439,58,19655,19656,PROP,PER,Tiny Tim,poor Tiny Tim
+2440,54,19663,19663,PRON,PER,His,Bob Cratchit
+2441,58,19676,19677,PROP,PER,Tiny Tim,poor Tiny Tim
+2442,54,19686,19686,PRON,PER,his,Bob Cratchit
+2445,54,19691,19691,PRON,PER,his,Bob Cratchit
+2446,54,19699,19699,PROP,PER,Bob,Bob Cratchit
+2447,54,19703,19703,PRON,PER,his,Bob Cratchit
+2450,57,19749,19750,PROP,PER,Master Peter,Master Peter Cratchit
+2455,55,19819,19820,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2456,57,19835,19836,PROP,PER,Master Peter,Master Peter Cratchit
+2458,59,19852,19852,PROP,PER,Martha,Martha warn't
+2459,54,19858,19858,PROP,PER,Bob,Bob Cratchit
+2460,58,19860,19861,PROP,PER,Tiny Tim,poor Tiny Tim
+2461,54,19863,19863,PRON,PER,him,Bob Cratchit
+2469,55,19935,19936,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2470,55,19957,19957,PRON,PER,she,Mrs. Cratchit
+2471,58,19984,19985,PROP,PER,Tiny Tim,poor Tiny Tim
+2473,58,20002,20002,PRON,PER,his,poor Tiny Tim
+2474,54,20016,20016,PROP,PER,Bob,Bob Cratchit
+2475,54,20018,20018,PRON,PER,he,Bob Cratchit
+2477,55,20068,20069,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2482,55,20132,20133,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2492,55,20281,20282,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2493,54,20336,20337,PROP,PER,Bob Cratchit,Bob Cratchit
+2494,54,20345,20345,PRON,PER,he,Bob Cratchit
+2495,55,20354,20355,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2497,55,20360,20361,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2498,55,20370,20370,PRON,PER,her,Mrs. Cratchit
+2499,55,20373,20373,PRON,PER,she,Mrs. Cratchit
+2500,55,20376,20376,PRON,PER,she,Mrs. Cratchit
+2501,55,20378,20378,PRON,PER,her,Mrs. Cratchit
+2505,55,20421,20422,PROP,PER,Any Cratchit,Mrs. Cratchit
+2507,54,20497,20498,PROP,PER,Bob Cratchit,Bob Cratchit
+2508,54,20510,20511,PROP,PER,Bob Cratchit,Bob Cratchit
+2509,54,20552,20552,PROP,PER,Bob,Bob Cratchit
+2510,54,20572,20572,PROP,PER,Bob,Bob Cratchit
+2513,54,20583,20583,PRON,PER,my,Bob Cratchit
+2518,58,20608,20609,PROP,PER,Tiny Tim,poor Tiny Tim
+2519,58,20616,20616,PRON,PER,He,poor Tiny Tim
+2520,58,20621,20621,PRON,PER,his,poor Tiny Tim
+2522,58,20627,20627,PRON,PER,his,poor Tiny Tim
+2523,54,20631,20631,PROP,PER,Bob,Bob Cratchit
+2524,54,20633,20633,PRON,PER,his,Bob Cratchit
+2525,54,20638,20638,PRON,PER,his,Bob Cratchit
+2526,54,20642,20642,PRON,PER,he,Bob Cratchit
+2529,54,20653,20653,PRON,PER,his,Bob Cratchit
+2532,34,20667,20667,PROP,PER,Spirit,Good Spirit
+2533,20,20671,20671,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2534,20,20676,20676,PRON,PER,he,Mr. Ebenezer Scrooge
+2535,20,20684,20684,PRON,PER,me,Mr. Ebenezer Scrooge
+2536,58,20686,20687,PROP,PER,Tiny Tim,poor Tiny Tim
+2541,20,20743,20743,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2550,20,20808,20808,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2551,20,20810,20810,PRON,PER,his,Mr. Ebenezer Scrooge
+2552,20,20814,20814,PRON,PER,his,Mr. Ebenezer Scrooge
+2568,20,20935,20935,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2569,14,20938,20939,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+2570,20,20948,20948,PRON,PER,his,Mr. Ebenezer Scrooge
+2571,20,20955,20955,PRON,PER,he,Mr. Ebenezer Scrooge
+2572,20,20961,20961,PRON,PER,his,Mr. Ebenezer Scrooge
+2573,20,20966,20967,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+2574,54,20971,20971,PROP,PER,Bob,Bob Cratchit
+2575,54,20974,20974,PRON,PER,I,Bob Cratchit
+2576,20,20977,20977,PRON,PER,you,Mr. Ebenezer Scrooge
+2577,20,20978,20979,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+2580,55,20999,21000,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2581,55,21005,21005,PRON,PER,I,Mrs. Cratchit
+2582,55,21007,21007,PRON,PER,I,Mrs. Cratchit
+2583,20,21009,21009,PRON,PER,him,Mr. Ebenezer Scrooge
+2585,55,21012,21012,PRON,PER,I,Mrs. Cratchit
+2586,20,21015,21015,PRON,PER,him,Mr. Ebenezer Scrooge
+2587,55,21019,21019,PRON,PER,my,Mrs. Cratchit
+2588,55,21026,21026,PRON,PER,I,Mrs. Cratchit
+2589,20,21028,21028,PRON,PER,he,Mr. Ebenezer Scrooge
+2590,54,21039,21039,PRON,PER,My,Bob Cratchit
+2592,54,21044,21044,PROP,PER,Bob,Bob Cratchit
+2594,55,21061,21061,PRON,PER,I,Mrs. Cratchit
+2595,55,21067,21067,PRON,PER,she,Mrs. Cratchit
+2597,20,21088,21089,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+2599,20,21093,21093,PRON,PER,he,Mr. Ebenezer Scrooge
+2604,54,21111,21111,PRON,PER,My,Bob Cratchit
+2606,54,21116,21116,PROP,PER,Bob,Bob Cratchit
+2607,55,21127,21127,PRON,PER,I,Mrs. Cratchit
+2608,20,21130,21130,PRON,PER,his,Mr. Ebenezer Scrooge
+2610,55,21142,21143,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+2611,20,21148,21148,PRON,PER,his,Mr. Ebenezer Scrooge
+2612,20,21153,21153,PRON,PER,him,Mr. Ebenezer Scrooge
+2613,20,21164,21164,PRON,PER,He,Mr. Ebenezer Scrooge
+2614,55,21173,21173,PRON,PER,I,Mrs. Cratchit
+2616,55,21185,21185,PRON,PER,her,Mrs. Cratchit
+2618,58,21201,21202,PROP,PER,Tiny Tim,poor Tiny Tim
+2619,58,21210,21210,PRON,PER,he,poor Tiny Tim
+2620,20,21218,21218,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2623,20,21229,21229,PRON,PER,his,Mr. Ebenezer Scrooge
+2625,20,21266,21266,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2626,54,21273,21274,PROP,PER,Bob Cratchit,Bob Cratchit
+2628,54,21278,21278,PRON,PER,he,Bob Cratchit
+2629,54,21283,21283,PRON,PER,his,Bob Cratchit
+2630,57,21286,21287,PROP,PER,Master Peter,Master Peter Cratchit
+2632,57,21315,21315,PROP,PER,Peter,Master Peter Cratchit
+2634,57,21324,21324,PROP,PER,Peter,Master Peter Cratchit
+2635,57,21325,21325,PRON,PER,himself,Master Peter Cratchit
+2636,57,21333,21333,PRON,PER,his,Master Peter Cratchit
+2637,57,21338,21338,PRON,PER,he,Master Peter Cratchit
+2638,57,21344,21344,PRON,PER,he,Master Peter Cratchit
+2639,57,21348,21348,PRON,PER,he,Master Peter Cratchit
+2640,59,21358,21358,PROP,PER,Martha,Martha warn't
+2644,59,21377,21377,PRON,PER,she,Martha warn't
+2645,59,21386,21386,PRON,PER,she,Martha warn't
+2646,59,21393,21393,PRON,PER,she,Martha warn't
+2647,59,21414,21414,PRON,PER,she,Martha warn't
+2649,59,21421,21421,PRON,PER,she,Martha warn't
+2653,57,21444,21444,PROP,PER,Peter,Master Peter Cratchit
+2654,57,21449,21449,PROP,PER,Peter,Master Peter Cratchit
+2655,57,21452,21452,PRON,PER,his,Master Peter Cratchit
+2657,57,21462,21462,PRON,PER,his,Master Peter Cratchit
+2661,58,21504,21505,PROP,PER,Tiny Tim,poor Tiny Tim
+2667,57,21557,21557,PROP,PER,Peter,Master Peter Cratchit
+2672,20,21613,21613,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2673,20,21615,21615,PRON,PER,his,Mr. Ebenezer Scrooge
+2675,58,21623,21624,PROP,PER,Tiny Tim,poor Tiny Tim
+2676,20,21645,21645,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2714,14,21975,21976,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+2719,20,22101,22101,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2750,34,22284,22285,PROP,PER,The Spirit,Good Spirit
+2751,20,22293,22293,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2752,20,22295,22295,PRON,PER,his,Mr. Ebenezer Scrooge
+2756,20,22317,22317,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2757,20,22324,22324,PRON,PER,he,Mr. Ebenezer Scrooge
+2762,20,22342,22342,PRON,PER,his,Mr. Ebenezer Scrooge
+2783,20,22583,22583,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2801,20,22735,22735,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2803,20,22781,22781,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2804,20,22800,22800,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2805,20,22805,22805,PRON,PER,his,Mr. Ebenezer Scrooge
+2807,20,22812,22812,PRON,PER,himself,Mr. Ebenezer Scrooge
+2810,20,22828,22828,PRON,PER,his,Mr. Ebenezer Scrooge
+2812,20,22848,22848,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2816,20,22880,22880,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2826,20,22951,22951,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2831,20,22977,22977,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2833,20,22988,22988,PRON,PER,he,Mr. Ebenezer Scrooge
+2836,20,23020,23020,PRON,PER,He,Mr. Ebenezer Scrooge
+2838,20,23034,23034,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2840,20,23039,23039,PRON,PER,He,Mr. Ebenezer Scrooge
+2841,20,23050,23050,PRON,PER,him,Mr. Ebenezer Scrooge
+2842,63,23052,23052,PROP,PER,Fred,Fred
+2843,20,23056,23056,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2859,20,23183,23183,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2866,63,23222,23222,PRON,PER,I,Fred
+2868,63,23230,23230,PROP,PER,Fred,Fred
+2869,20,23234,23234,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2871,63,23242,23242,PRON,PER,you,Fred
+2875,20,23261,23261,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2887,20,23327,23327,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2889,20,23331,23331,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2893,20,23356,23356,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2908,20,23427,23427,PRON,PER,I,Mr. Ebenezer Scrooge
+2910,20,23438,23438,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2917,20,23496,23496,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2921,64,23516,23516,PRON,PER,you,Topper
+2922,64,23520,23520,PROP,PER,Topper,Topper
+2923,64,23523,23523,PROP,PER,Topper,Topper
+2924,64,23527,23527,PRON,PER,his,Topper
+2926,20,23532,23532,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2928,64,23539,23539,PRON,PER,he,Topper
+2931,20,23562,23562,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2935,63,23590,23590,PROP,PER,Fred,Fred
+2936,20,23594,23594,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2943,20,23620,23620,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2948,20,23668,23668,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+2977,20,23803,23804,PROP,PER,Uncle Scrooge,Mr. Ebenezer Scrooge
+2978,20,23808,23808,PRON,PER,you,Mr. Ebenezer Scrooge
+2987,20,23856,23856,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3000,64,23930,23930,PROP,PER,Topper,Topper
+3002,64,23951,23951,PRON,PER,his,Topper
+3003,20,23963,23963,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3007,20,24007,24007,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3010,14,24037,24037,PROP,PER,Ghost,MARLEY 'S GHOST Marley
+3019,16,24093,24094,PROP,PER,Jacob Marley,Old Jacob Marley
+3028,64,24163,24163,PROP,PER,Topper,Topper
+3030,64,24170,24170,PRON,PER,he,Topper
+3031,64,24174,24174,PRON,PER,his,Topper
+3033,64,24188,24188,PRON,PER,him,Topper
+3034,20,24190,24190,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3037,64,24206,24206,PRON,PER,he,Topper
+3039,64,24245,24245,PRON,PER,himself,Topper
+3041,64,24256,24256,PRON,PER,he,Topper
+3042,64,24258,24258,PRON,PER,He,Topper
+3044,64,24267,24267,PRON,PER,He,Topper
+3047,64,24280,24280,PRON,PER,him,Topper
+3049,64,24291,24291,PRON,PER,he,Topper
+3054,64,24349,24349,PRON,PER,he,Topper
+3058,64,24368,24368,PRON,PER,him,Topper
+3059,64,24370,24370,PRON,PER,he,Topper
+3061,64,24383,24383,PRON,PER,his,Topper
+3062,64,24391,24391,PRON,PER,his,Topper
+3064,64,24398,24398,PRON,PER,his,Topper
+3066,64,24415,24415,PRON,PER,himself,Topper
+3071,64,24445,24445,PRON,PER,him,Topper
+3076,20,24469,24469,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3080,20,24503,24503,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3085,20,24554,24554,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3091,64,24571,24571,PROP,PER,Topper,Topper
+3096,20,24597,24597,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3097,20,24606,24606,PRON,PER,he,Mr. Ebenezer Scrooge
+3098,20,24615,24615,PRON,PER,his,Mr. Ebenezer Scrooge
+3100,20,24624,24624,PRON,PER,he,Mr. Ebenezer Scrooge
+3101,20,24629,24629,PRON,PER,his,Mr. Ebenezer Scrooge
+3102,20,24662,24662,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3103,20,24666,24666,PRON,PER,he,Mr. Ebenezer Scrooge
+3104,20,24670,24670,PRON,PER,his,Mr. Ebenezer Scrooge
+3105,14,24675,24676,PROP,PER,The Ghost,MARLEY 'S GHOST Marley
+3106,20,24682,24682,PRON,PER,him,Mr. Ebenezer Scrooge
+3107,20,24690,24690,PRON,PER,him,Mr. Ebenezer Scrooge
+3108,20,24695,24695,PRON,PER,he,Mr. Ebenezer Scrooge
+3112,20,24729,24729,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3113,34,24737,24737,PROP,PER,Spirit,Good Spirit
+3114,20,24753,24753,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3117,20,24770,24770,PRON,PER,he,Mr. Ebenezer Scrooge
+3119,20,24792,24792,PRON,PER,he,Mr. Ebenezer Scrooge
+3120,20,24797,24797,PRON,PER,him,Mr. Ebenezer Scrooge
+3121,20,24799,24799,PRON,PER,he,Mr. Ebenezer Scrooge
+3127,20,24918,24918,PRON,PER,him,Mr. Ebenezer Scrooge
+3129,20,24937,24937,PRON,PER,he,Mr. Ebenezer Scrooge
+3133,63,24977,24977,PROP,PER,Fred,Fred
+3135,63,24993,24993,PROP,PER,Fred,Fred
+3136,63,24998,24998,PRON,PER,your,Fred
+3141,20,25059,25060,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+3143,20,25073,25073,PRON,PER,He,Mr. Ebenezer Scrooge
+3145,63,25081,25081,PRON,PER,I,Fred
+3146,63,25087,25087,PROP,PER,Fred,Fred
+3147,20,25098,25098,PRON,PER,his,Mr. Ebenezer Scrooge
+3149,63,25117,25117,PRON,PER,I,Fred
+3150,20,25121,25122,PROP,PER,Uncle Scrooge,Mr. Ebenezer Scrooge
+3151,20,25129,25130,PROP,PER,Uncle Scrooge,Mr. Ebenezer Scrooge
+3154,20,25151,25151,PRON,PER,he,Mr. Ebenezer Scrooge
+3155,20,25156,25156,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3157,20,25161,25161,PRON,PER,He,Mr. Ebenezer Scrooge
+3159,20,25171,25171,PRON,PER,he,Mr. Ebenezer Scrooge
+3160,20,25177,25178,PROP,PER,Uncle Scrooge,Mr. Ebenezer Scrooge
+3161,20,25181,25182,PROP,PER,Uncle Scrooge,Mr. Ebenezer Scrooge
+3162,20,25194,25194,PRON,PER,he,Mr. Ebenezer Scrooge
+3165,14,25213,25214,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+3166,20,25217,25217,PRON,PER,him,Mr. Ebenezer Scrooge
+3167,20,25235,25235,PRON,PER,his,Mr. Ebenezer Scrooge
+3169,20,25239,25239,PRON,PER,he,Mr. Ebenezer Scrooge
+3177,34,25271,25272,PROP,PER,The Spirit,Good Spirit
+3191,34,25347,25348,PROP,PER,the Spirit,Good Spirit
+3194,20,25357,25357,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3196,20,25375,25375,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3197,20,25377,25377,PRON,PER,his,Mr. Ebenezer Scrooge
+3199,20,25408,25408,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3200,20,25412,25412,PRON,PER,his,Mr. Ebenezer Scrooge
+3202,20,25424,25424,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3206,34,25450,25451,PROP,PER,the Spirit,Good Spirit
+3209,20,25461,25461,PRON,PER,he,Mr. Ebenezer Scrooge
+3211,20,25479,25479,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3212,14,25482,25482,PRON,PER,My,MARLEY 'S GHOST Marley
+3213,14,25493,25494,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+3214,20,25511,25511,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3215,20,25545,25545,PRON,PER,me,Mr. Ebenezer Scrooge
+3216,20,25547,25547,PRON,PER,I,Mr. Ebenezer Scrooge
+3217,20,25553,25553,PRON,PER,I,Mr. Ebenezer Scrooge
+3218,20,25558,25558,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3220,20,25570,25570,PRON,PER,I,Mr. Ebenezer Scrooge
+3221,20,25579,25579,PRON,PER,yourself,Mr. Ebenezer Scrooge
+3222,20,25583,25583,PRON,PER,your,Mr. Ebenezer Scrooge
+3236,20,25790,25790,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3238,20,25800,25800,PRON,PER,him,Mr. Ebenezer Scrooge
+3239,20,25805,25805,PRON,PER,he,Mr. Ebenezer Scrooge
+3243,34,25833,25833,PROP,PER,Spirit,Good Spirit
+3245,34,25837,25837,PRON,PER,yours,Good Spirit
+3246,20,25840,25840,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3267,20,25948,25948,PRON,PER,your,Mr. Ebenezer Scrooge
+3269,20,25973,25973,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3272,20,25988,25988,PRON,PER,him,Mr. Ebenezer Scrooge
+3275,20,26010,26010,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3276,20,26013,26013,PRON,PER,him,Mr. Ebenezer Scrooge
+3277,14,26015,26016,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+3278,20,26031,26031,PRON,PER,he,Mr. Ebenezer Scrooge
+3279,16,26036,26038,PROP,PER,old Jacob Marley,Old Jacob Marley
+3280,20,26044,26044,PRON,PER,his,Mr. Ebenezer Scrooge
+3282,20,26064,26064,PRON,PER,him,Mr. Ebenezer Scrooge
+3283,66,26069,26072,PROP,PER,THE SPIRITS The Phantom,THE SPIRITS The Phantom
+3284,20,26084,26084,PRON,PER,him,Mr. Ebenezer Scrooge
+3285,20,26086,26086,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3286,20,26090,26090,PRON,PER,his,Mr. Ebenezer Scrooge
+3290,20,26172,26172,PRON,PER,He,Mr. Ebenezer Scrooge
+3291,20,26184,26184,PRON,PER,him,Mr. Ebenezer Scrooge
+3292,20,26192,26192,PRON,PER,him,Mr. Ebenezer Scrooge
+3293,20,26198,26198,PRON,PER,He,Mr. Ebenezer Scrooge
+3295,20,26212,26212,PRON,PER,I,Mr. Ebenezer Scrooge
+3297,20,26228,26228,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3298,34,26230,26231,PROP,PER,The Spirit,Good Spirit
+3299,34,26239,26239,PRON,PER,its,Good Spirit
+3300,34,26243,26243,PRON,PER,You,Good Spirit
+3301,20,26248,26248,PRON,PER,me,Mr. Ebenezer Scrooge
+3303,20,26268,26268,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3304,34,26276,26276,PROP,PER,Spirit,Good Spirit
+3305,34,26296,26297,PROP,PER,the Spirit,Good Spirit
+3306,34,26300,26300,PRON,PER,its,Good Spirit
+3307,20,26308,26308,PRON,PER,he,Mr. Ebenezer Scrooge
+3309,20,26321,26321,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3310,20,26329,26329,PRON,PER,his,Mr. Ebenezer Scrooge
+3311,20,26333,26333,PRON,PER,him,Mr. Ebenezer Scrooge
+3312,20,26336,26336,PRON,PER,he,Mr. Ebenezer Scrooge
+3313,20,26339,26339,PRON,PER,he,Mr. Ebenezer Scrooge
+3314,20,26344,26344,PRON,PER,he,Mr. Ebenezer Scrooge
+3315,34,26350,26351,PROP,PER,The Spirit,Good Spirit
+3316,20,26358,26358,PRON,PER,his,Mr. Ebenezer Scrooge
+3317,20,26363,26363,PRON,PER,him,Mr. Ebenezer Scrooge
+3318,20,26369,26369,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3319,20,26379,26379,PRON,PER,him,Mr. Ebenezer Scrooge
+3320,20,26402,26402,PRON,PER,him,Mr. Ebenezer Scrooge
+3321,20,26405,26405,PRON,PER,he,Mr. Ebenezer Scrooge
+3322,20,26408,26408,PRON,PER,he,Mr. Ebenezer Scrooge
+3323,20,26410,26410,PRON,PER,his,Mr. Ebenezer Scrooge
+3325,20,26437,26437,PRON,PER,he,Mr. Ebenezer Scrooge
+3326,20,26441,26441,PRON,PER,I,Mr. Ebenezer Scrooge
+3329,20,26448,26448,PRON,PER,I,Mr. Ebenezer Scrooge
+3330,20,26454,26454,PRON,PER,I,Mr. Ebenezer Scrooge
+3332,20,26461,26461,PRON,PER,me,Mr. Ebenezer Scrooge
+3333,20,26466,26466,PRON,PER,I,Mr. Ebenezer Scrooge
+3335,20,26476,26476,PRON,PER,I,Mr. Ebenezer Scrooge
+3336,20,26479,26479,PRON,PER,I,Mr. Ebenezer Scrooge
+3339,20,26500,26500,PRON,PER,me,Mr. Ebenezer Scrooge
+3340,20,26505,26505,PRON,PER,him,Mr. Ebenezer Scrooge
+3342,20,26523,26523,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3343,20,26541,26541,PRON,PER,me,Mr. Ebenezer Scrooge
+3344,20,26543,26543,PRON,PER,I,Mr. Ebenezer Scrooge
+3345,34,26549,26549,PROP,PER,Spirit,Good Spirit
+3347,20,26561,26561,PRON,PER,him,Mr. Ebenezer Scrooge
+3348,20,26563,26563,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3349,20,26574,26574,PRON,PER,him,Mr. Ebenezer Scrooge
+3350,20,26577,26577,PRON,PER,he,Mr. Ebenezer Scrooge
+3351,20,26582,26582,PRON,PER,him,Mr. Ebenezer Scrooge
+3364,20,26669,26669,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3366,34,26675,26676,PROP,PER,The Spirit,Good Spirit
+3370,20,26695,26695,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3375,34,26731,26731,PRON,PER,he,Good Spirit
+3376,34,26739,26739,PRON,PER,he,Good Spirit
+3379,34,26762,26762,PRON,PER,him,Good Spirit
+3382,34,26787,26787,PRON,PER,he,Good Spirit
+3384,34,26809,26809,PRON,PER,he,Good Spirit
+3385,34,26812,26812,PRON,PER,his,Good Spirit
+3390,34,26866,26866,PRON,PER,his,Good Spirit
+3392,34,26871,26871,PRON,PER,He,Good Spirit
+3422,20,27077,27077,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3429,20,27107,27107,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3430,20,27119,27119,PRON,PER,He,Mr. Ebenezer Scrooge
+3434,20,27142,27142,PRON,PER,He,Mr. Ebenezer Scrooge
+3451,20,27280,27280,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3453,20,27311,27311,PRON,PER,he,Mr. Ebenezer Scrooge
+3454,20,27313,27313,PRON,PER,himself,Mr. Ebenezer Scrooge
+3456,16,27336,27336,PROP,PER,Jacob,Old Jacob Marley
+3457,20,27338,27338,PRON,PER,his,Mr. Ebenezer Scrooge
+3461,20,27358,27358,PRON,PER,he,Mr. Ebenezer Scrooge
+3462,20,27366,27366,PRON,PER,himself,Mr. Ebenezer Scrooge
+3463,20,27369,27369,PRON,PER,he,Mr. Ebenezer Scrooge
+3466,20,27390,27390,PRON,PER,his,Mr. Ebenezer Scrooge
+3467,20,27394,27394,PRON,PER,he,Mr. Ebenezer Scrooge
+3468,20,27401,27401,PRON,PER,he,Mr. Ebenezer Scrooge
+3469,20,27406,27406,PRON,PER,he,Mr. Ebenezer Scrooge
+3470,20,27416,27416,PRON,PER,himself,Mr. Ebenezer Scrooge
+3471,20,27422,27422,PRON,PER,he,Mr. Ebenezer Scrooge
+3472,20,27430,27430,PRON,PER,his,Mr. Ebenezer Scrooge
+3474,20,27435,27435,PRON,PER,him,Mr. Ebenezer Scrooge
+3475,20,27438,27438,PRON,PER,he,Mr. Ebenezer Scrooge
+3476,20,27451,27451,PRON,PER,He,Mr. Ebenezer Scrooge
+3478,20,27459,27459,PRON,PER,his,Mr. Ebenezer Scrooge
+3480,20,27468,27468,PRON,PER,his,Mr. Ebenezer Scrooge
+3481,20,27478,27478,PRON,PER,his,Mr. Ebenezer Scrooge
+3483,20,27487,27487,PRON,PER,he,Mr. Ebenezer Scrooge
+3484,20,27492,27492,PRON,PER,himself,Mr. Ebenezer Scrooge
+3486,20,27505,27505,PRON,PER,him,Mr. Ebenezer Scrooge
+3487,20,27512,27512,PRON,PER,he,Mr. Ebenezer Scrooge
+3488,20,27517,27517,PRON,PER,his,Mr. Ebenezer Scrooge
+3489,20,27528,27528,PRON,PER,he,Mr. Ebenezer Scrooge
+3490,20,27530,27530,PRON,PER,his,Mr. Ebenezer Scrooge
+3491,20,27545,27545,PRON,PER,him,Mr. Ebenezer Scrooge
+3492,20,27556,27556,PRON,PER,he,Mr. Ebenezer Scrooge
+3493,20,27558,27558,PRON,PER,himself,Mr. Ebenezer Scrooge
+3494,20,27560,27560,PRON,PER,his,Mr. Ebenezer Scrooge
+3495,20,27564,27564,PRON,PER,he,Mr. Ebenezer Scrooge
+3496,20,27580,27580,PRON,PER,himself,Mr. Ebenezer Scrooge
+3498,20,27589,27589,PRON,PER,him,Mr. Ebenezer Scrooge
+3499,20,27594,27594,PRON,PER,him,Mr. Ebenezer Scrooge
+3504,20,27619,27619,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3505,20,27626,27626,PRON,PER,he,Mr. Ebenezer Scrooge
+3518,20,27799,27799,PRON,PER,he,Mr. Ebenezer Scrooge
+3522,20,27857,27857,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3544,69,28003,28004,PROP,PER,old Joe,Joe Miller
+3547,69,28025,28025,PRON,PER,You,Joe Miller
+3548,69,28037,28038,PROP,PER,old Joe,Joe Miller
+3549,69,28041,28041,PRON,PER,his,Joe Miller
+3550,69,28044,28044,PRON,PER,his,Joe Miller
+3552,69,28053,28053,PRON,PER,You,Joe Miller
+3553,69,28062,28062,PRON,PER,you,Joe Miller
+3555,69,28074,28074,PRON,PER,I,Joe Miller
+3558,69,28104,28104,PRON,PER,I,Joe Miller
+3559,69,28108,28108,PRON,PER,I,Joe Miller
+3618,69,28547,28548,PROP,PER,old Joe,Joe Miller
+3628,69,28606,28606,PROP,PER,Joe,Joe Miller
+3633,69,28679,28680,PROP,PER,old Joe,Joe Miller
+3634,69,28686,28686,PRON,PER,he,Joe Miller
+3635,69,28705,28705,PRON,PER,he,Joe Miller
+3637,69,28723,28723,PROP,PER,Joe,Joe Miller
+3638,69,28727,28727,PRON,PER,I,Joe Miller
+3639,69,28735,28735,PRON,PER,I,Joe Miller
+3642,69,28795,28795,PRON,PER,I,Joe Miller
+3644,69,28808,28808,PRON,PER,mine,Joe Miller
+3645,69,28815,28815,PRON,PER,I,Joe Miller
+3646,69,28817,28817,PRON,PER,myself,Joe Miller
+3647,69,28821,28822,PROP,PER,old Joe,Joe Miller
+3650,69,28833,28833,PRON,PER,me,Joe Miller
+3651,69,28845,28845,PRON,PER,I,Joe Miller
+3653,69,28872,28872,PROP,PER,Joe,Joe Miller
+3655,69,28880,28880,PROP,PER,Joe,Joe Miller
+3656,69,28884,28884,PRON,PER,his,Joe Miller
+3658,69,28923,28923,PROP,PER,Joe,Joe Miller
+3665,69,28977,28977,PROP,PER,Joe,Joe Miller
+3670,69,29006,29006,PROP,PER,Joe,Joe Miller
+3677,69,29051,29051,PRON,PER,you,Joe Miller
+3678,69,29053,29053,PROP,PER,Joe,Joe Miller
+3681,69,29080,29080,PROP,PER,Joe,Joe Miller
+3682,69,29087,29087,PRON,PER,you,Joe Miller
+3686,69,29112,29112,PRON,PER,I,Joe Miller
+3688,69,29126,29127,PROP,PER,old Joe,Joe Miller
+3689,69,29131,29131,PRON,PER,his,Joe Miller
+3690,69,29141,29141,PRON,PER,you,Joe Miller
+3697,69,29176,29176,PRON,PER,you,Joe Miller
+3698,69,29183,29183,PRON,PER,your,Joe Miller
+3699,69,29188,29188,PRON,PER,you,Joe Miller
+3704,69,29241,29242,PROP,PER,old Joe,Joe Miller
+3711,20,29323,29323,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3715,20,29351,29351,PRON,PER,he,Mr. Ebenezer Scrooge
+3719,69,29388,29389,PROP,PER,old Joe,Joe Miller
+3721,20,29416,29416,PRON,PER,you,Mr. Ebenezer Scrooge
+3727,20,29451,29451,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3728,20,29460,29460,PRON,PER,I,Mr. Ebenezer Scrooge
+3729,20,29463,29463,PRON,PER,I,Mr. Ebenezer Scrooge
+3731,20,29474,29474,PRON,PER,my,Mr. Ebenezer Scrooge
+3732,20,29477,29477,PRON,PER,My,Mr. Ebenezer Scrooge
+3733,20,29492,29492,PRON,PER,He,Mr. Ebenezer Scrooge
+3734,20,29505,29505,PRON,PER,he,Mr. Ebenezer Scrooge
+3736,20,29561,29561,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3740,20,29620,29620,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3741,66,29623,29624,PROP,PER,the Phantom,THE SPIRITS The Phantom
+3742,66,29626,29626,PRON,PER,Its,THE SPIRITS The Phantom
+3743,20,29654,29654,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3744,20,29664,29664,PRON,PER,He,Mr. Ebenezer Scrooge
+3745,20,29685,29685,PRON,PER,he,Mr. Ebenezer Scrooge
+3747,20,29700,29700,PRON,PER,his,Mr. Ebenezer Scrooge
+3758,20,29851,29851,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3759,20,29857,29857,PRON,PER,he,Mr. Ebenezer Scrooge
+3760,20,29861,29861,PRON,PER,he,Mr. Ebenezer Scrooge
+3761,20,29867,29867,PRON,PER,He,Mr. Ebenezer Scrooge
+3778,20,29992,29992,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3779,34,30000,30000,PROP,PER,Spirit,Good Spirit
+3780,20,30003,30003,PRON,PER,he,Mr. Ebenezer Scrooge
+3783,20,30017,30017,PRON,PER,I,Mr. Ebenezer Scrooge
+3784,20,30025,30025,PRON,PER,me,Mr. Ebenezer Scrooge
+3786,14,30033,30034,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+3787,20,30045,30045,PRON,PER,I,Mr. Ebenezer Scrooge
+3788,34,30047,30047,PRON,PER,you,Good Spirit
+3789,20,30050,30050,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3790,20,30055,30055,PRON,PER,I,Mr. Ebenezer Scrooge
+3791,20,30060,30060,PRON,PER,I,Mr. Ebenezer Scrooge
+3792,20,30064,30064,PRON,PER,I,Mr. Ebenezer Scrooge
+3793,34,30070,30070,PROP,PER,Spirit,Good Spirit
+3794,20,30072,30072,PRON,PER,I,Mr. Ebenezer Scrooge
+3795,20,30085,30085,PRON,PER,him,Mr. Ebenezer Scrooge
+3799,20,30108,30108,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3801,20,30118,30118,PRON,PER,me,Mr. Ebenezer Scrooge
+3802,34,30120,30120,PROP,PER,Spirit,Good Spirit
+3803,20,30122,30122,PRON,PER,I,Mr. Ebenezer Scrooge
+3804,34,30124,30124,PRON,PER,you,Good Spirit
+3806,20,30134,30134,PRON,PER,him,Mr. Ebenezer Scrooge
+3875,20,30669,30669,PRON,PER,me,Mr. Ebenezer Scrooge
+3876,20,30680,30680,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3878,20,30702,30702,PRON,PER,me,Mr. Ebenezer Scrooge
+3884,20,30723,30723,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3889,54,30743,30744,PROP,PER,Bob Cratchit,Bob Cratchit
+3891,54,30750,30750,PRON,PER,he,Bob Cratchit
+3895,57,30790,30790,PROP,PER,Peter,Master Peter Cratchit
+3896,57,30797,30797,PRON,PER,him,Master Peter Cratchit
+3901,54,30819,30819,PRON,PER,he,Bob Cratchit
+3905,20,30837,30837,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+3906,20,30842,30842,PRON,PER,He,Mr. Ebenezer Scrooge
+3917,58,30905,30907,PROP,PER,poor Tiny Tim,poor Tiny Tim
+3919,54,30918,30918,PROP,PER,Cratchit,Bob Cratchit
+3929,57,30964,30964,PROP,PER,Peter,Master Peter Cratchit
+3930,57,30969,30969,PRON,PER,his,Master Peter Cratchit
+3931,57,30974,30974,PRON,PER,I,Master Peter Cratchit
+3941,58,31032,31033,PROP,PER,Tiny Tim,poor Tiny Tim
+3943,57,31046,31046,PRON,PER,I,Master Peter Cratchit
+3944,57,31050,31050,PROP,PER,Peter,Master Peter Cratchit
+3956,57,31120,31120,PRON,PER,him,Master Peter Cratchit
+3957,54,31123,31124,PROP,PER,little Bob,Bob Cratchit
+3958,54,31126,31126,PRON,PER,his,Bob Cratchit
+3959,54,31129,31129,PRON,PER,he,Bob Cratchit
+3961,54,31141,31141,PRON,PER,His,Bob Cratchit
+3962,54,31146,31146,PRON,PER,him,Bob Cratchit
+3964,54,31158,31158,PRON,PER,him,Bob Cratchit
+3966,54,31170,31170,PRON,PER,his,Bob Cratchit
+3968,54,31183,31183,PRON,PER,his,Bob Cratchit
+3971,54,31205,31205,PROP,PER,Bob,Bob Cratchit
+3974,54,31220,31220,PRON,PER,He,Bob Cratchit
+3975,55,31236,31237,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+3978,54,31250,31250,PRON,PER,he,Bob Cratchit
+3979,54,31256,31256,PRON,PER,You,Bob Cratchit
+3981,54,31268,31268,PRON,PER,his,Bob Cratchit
+3983,54,31274,31274,PRON,PER,my,Bob Cratchit
+3985,54,31279,31279,PROP,PER,Bob,Bob Cratchit
+3986,54,31282,31282,PRON,PER,I,Bob Cratchit
+3992,54,31311,31311,PRON,PER,I,Bob Cratchit
+3994,54,31315,31315,PRON,PER,I,Bob Cratchit
+3996,54,31323,31323,PRON,PER,My,Bob Cratchit
+3998,54,31331,31331,PROP,PER,Bob,Bob Cratchit
+3999,54,31334,31334,PRON,PER,My,Bob Cratchit
+4001,54,31339,31339,PRON,PER,He,Bob Cratchit
+4002,54,31346,31346,PRON,PER,He,Bob Cratchit
+4004,54,31353,31353,PRON,PER,he,Bob Cratchit
+4005,54,31359,31359,PRON,PER,he,Bob Cratchit
+4006,54,31361,31361,PRON,PER,his,Bob Cratchit
+4009,54,31375,31375,PRON,PER,He,Bob Cratchit
+4017,54,31420,31421,PROP,PER,Poor Bob,Bob Cratchit
+4018,54,31429,31429,PRON,PER,he,Bob Cratchit
+4019,54,31436,31436,PRON,PER,himself,Bob Cratchit
+4020,54,31438,31438,PRON,PER,he,Bob Cratchit
+4021,54,31444,31444,PRON,PER,He,Bob Cratchit
+4025,54,31475,31475,PROP,PER,Bob,Bob Cratchit
+4027,20,31483,31484,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+4029,54,31489,31489,PRON,PER,he,Bob Cratchit
+4034,54,31523,31523,PROP,PER,Bob,Bob Cratchit
+4036,54,31539,31539,PROP,PER,Bob,Bob Cratchit
+4043,57,31566,31567,PROP,PER,Mr. Cratchit,Master Peter Cratchit
+4045,57,31578,31578,PRON,PER,your,Master Peter Cratchit
+4051,57,31614,31614,PRON,PER,you,Master Peter Cratchit
+4053,54,31622,31622,PROP,PER,Bob,Bob Cratchit
+4055,57,31631,31631,PROP,PER,Peter,Master Peter Cratchit
+4056,54,31638,31638,PRON,PER,my,Bob Cratchit
+4058,54,31643,31643,PROP,PER,Bob,Bob Cratchit
+4059,54,31646,31646,PRON,PER,I,Bob Cratchit
+4061,54,31656,31656,PRON,PER,he,Bob Cratchit
+4062,57,31661,31661,PRON,PER,your,Master Peter Cratchit
+4064,54,31666,31666,PRON,PER,I,Bob Cratchit
+4065,57,31672,31672,PRON,PER,you,Master Peter Cratchit
+4066,54,31678,31678,PRON,PER,he,Bob Cratchit
+4067,54,31682,31682,PRON,PER,me,Bob Cratchit
+4068,54,31683,31683,PRON,PER,his,Bob Cratchit
+4069,54,31690,31690,PRON,PER,I,Bob Cratchit
+4070,54,31696,31696,PRON,PER,me,Bob Cratchit
+4071,54,31707,31707,PROP,PER,Bob,Bob Cratchit
+4078,55,31757,31757,PRON,PER,I,Mrs. Cratchit
+4081,55,31768,31769,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+4082,57,31772,31772,PRON,PER,You,Master Peter Cratchit
+4083,54,31779,31779,PRON,PER,my,Bob Cratchit
+4085,54,31784,31784,PROP,PER,Bob,Bob Cratchit
+4086,57,31788,31788,PRON,PER,you,Master Peter Cratchit
+4088,54,31795,31795,PRON,PER,I,Bob Cratchit
+4089,54,31805,31805,PRON,PER,I,Bob Cratchit
+4091,57,31809,31809,PROP,PER,Peter,Master Peter Cratchit
+4092,57,31820,31820,PROP,PER,Peter,Master Peter Cratchit
+4093,55,31824,31825,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+4096,57,31839,31839,PROP,PER,Peter,Master Peter Cratchit
+4098,57,31852,31852,PRON,PER,himself,Master Peter Cratchit
+4099,54,31859,31859,PRON,PER,you,Bob Cratchit
+4100,57,31863,31863,PROP,PER,Peter,Master Peter Cratchit
+4101,54,31878,31878,PROP,PER,Bob,Bob Cratchit
+4102,54,31895,31895,PRON,PER,my,Bob Cratchit
+4106,54,31909,31909,PRON,PER,I,Bob Cratchit
+4110,58,31918,31920,PROP,PER,poor Tiny Tim,poor Tiny Tim
+4115,54,31948,31948,PRON,PER,I,Bob Cratchit
+4116,54,31953,31953,PROP,PER,Bob,Bob Cratchit
+4117,54,31956,31956,PRON,PER,I,Bob Cratchit
+4118,54,31959,31959,PRON,PER,my,Bob Cratchit
+4121,58,31971,31971,PRON,PER,he,poor Tiny Tim
+4122,58,31975,31975,PRON,PER,he,poor Tiny Tim
+4126,58,31994,31995,PROP,PER,Tiny Tim,poor Tiny Tim
+4129,54,32015,32015,PRON,PER,I,Bob Cratchit
+4130,54,32022,32023,PROP,PER,little Bob,Bob Cratchit
+4131,54,32026,32026,PRON,PER,I,Bob Cratchit
+4132,55,32032,32033,PROP,PER,Mrs. Cratchit,Mrs. Cratchit
+4133,54,32035,32035,PRON,PER,him,Bob Cratchit
+4134,54,32037,32037,PRON,PER,his,Bob Cratchit
+4136,54,32040,32040,PRON,PER,him,Bob Cratchit
+4138,54,32047,32047,PRON,PER,him,Bob Cratchit
+4139,57,32050,32050,PROP,PER,Peter,Master Peter Cratchit
+4140,57,32052,32052,PRON,PER,himself,Master Peter Cratchit
+4141,58,32058,32059,PROP,PER,Tiny Tim,poor Tiny Tim
+4145,20,32073,32073,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4146,20,32078,32078,PRON,PER,me,Mr. Ebenezer Scrooge
+4148,20,32087,32087,PRON,PER,I,Mr. Ebenezer Scrooge
+4149,20,32091,32091,PRON,PER,I,Mr. Ebenezer Scrooge
+4150,20,32097,32097,PRON,PER,me,Mr. Ebenezer Scrooge
+4152,54,32117,32117,PRON,PER,him,Bob Cratchit
+4153,54,32128,32128,PRON,PER,he,Bob Cratchit
+4155,54,32158,32158,PRON,PER,him,Bob Cratchit
+4156,54,32160,32160,PRON,PER,himself,Bob Cratchit
+4157,34,32164,32165,PROP,PER,the Spirit,Good Spirit
+4158,20,32188,32188,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4160,20,32201,32201,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4162,20,32212,32212,PRON,PER,my,Mr. Ebenezer Scrooge
+4163,20,32227,32227,PRON,PER,I,Mr. Ebenezer Scrooge
+4165,20,32233,32233,PRON,PER,me,Mr. Ebenezer Scrooge
+4166,20,32236,32236,PRON,PER,I,Mr. Ebenezer Scrooge
+4169,20,32262,32262,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4170,66,32268,32268,PRON,PER,you,THE SPIRITS The Phantom
+4171,20,32280,32280,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4172,20,32286,32286,PRON,PER,his,Mr. Ebenezer Scrooge
+4175,20,32301,32301,PRON,PER,his,Mr. Ebenezer Scrooge
+4177,20,32318,32318,PRON,PER,himself,Mr. Ebenezer Scrooge
+4178,66,32320,32321,PROP,PER,The Phantom,THE SPIRITS The Phantom
+4179,20,32326,32326,PRON,PER,He,Mr. Ebenezer Scrooge
+4180,66,32328,32328,PRON,PER,it,THE SPIRITS The Phantom
+4181,20,32338,32338,PRON,PER,he,Mr. Ebenezer Scrooge
+4182,66,32343,32343,PRON,PER,it,THE SPIRITS The Phantom
+4184,20,32351,32351,PRON,PER,He,Mr. Ebenezer Scrooge
+4187,20,32372,32372,PRON,PER,he,Mr. Ebenezer Scrooge
+4193,20,32439,32439,PRON,PER,He,Mr. Ebenezer Scrooge
+4195,66,32445,32446,PROP,PER,The Phantom,THE SPIRITS The Phantom
+4196,20,32455,32455,PRON,PER,he,Mr. Ebenezer Scrooge
+4197,20,32458,32458,PRON,PER,he,Mr. Ebenezer Scrooge
+4198,20,32469,32469,PRON,PER,I,Mr. Ebenezer Scrooge
+4199,34,32477,32477,PRON,PER,you,Good Spirit
+4200,20,32482,32482,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4201,20,32486,32486,PRON,PER,me,Mr. Ebenezer Scrooge
+4202,14,32515,32516,PROP,PER,the Ghost,MARLEY 'S GHOST Marley
+4205,20,32549,32549,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4206,34,32571,32571,PRON,PER,you,Good Spirit
+4207,20,32573,32573,PRON,PER,me,Mr. Ebenezer Scrooge
+4208,34,32576,32577,PROP,PER,The Spirit,Good Spirit
+4209,20,32583,32583,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4211,20,32590,32590,PRON,PER,he,Mr. Ebenezer Scrooge
+4213,20,32607,32607,PRON,PER,his,Mr. Ebenezer Scrooge
+4214,20,32611,32612,PROP,PER,EBENEZER SCROOGE,Mr. Ebenezer Scrooge
+4215,20,32616,32616,PRON,PER,I,Mr. Ebenezer Scrooge
+4217,20,32626,32626,PRON,PER,he,Mr. Ebenezer Scrooge
+4218,20,32629,32629,PRON,PER,his,Mr. Ebenezer Scrooge
+4220,20,32639,32639,PRON,PER,him,Mr. Ebenezer Scrooge
+4221,34,32648,32648,PROP,PER,Spirit,Good Spirit
+4222,34,32663,32663,PROP,PER,Spirit,Good Spirit
+4223,20,32666,32666,PRON,PER,he,Mr. Ebenezer Scrooge
+4224,20,32677,32677,PRON,PER,me,Mr. Ebenezer Scrooge
+4225,20,32679,32679,PRON,PER,I,Mr. Ebenezer Scrooge
+4227,20,32684,32684,PRON,PER,I,Mr. Ebenezer Scrooge
+4228,20,32687,32687,PRON,PER,I,Mr. Ebenezer Scrooge
+4229,20,32693,32693,PRON,PER,I,Mr. Ebenezer Scrooge
+4230,20,32704,32704,PRON,PER,me,Mr. Ebenezer Scrooge
+4231,20,32708,32708,PRON,PER,I,Mr. Ebenezer Scrooge
+4232,34,32726,32727,PROP,PER,Good Spirit,Good Spirit
+4233,20,32730,32730,PRON,PER,he,Mr. Ebenezer Scrooge
+4234,20,32738,32738,PRON,PER,he,Mr. Ebenezer Scrooge
+4236,34,32744,32744,PRON,PER,your,Good Spirit
+4237,20,32748,32748,PRON,PER,me,Mr. Ebenezer Scrooge
+4238,20,32752,32752,PRON,PER,me,Mr. Ebenezer Scrooge
+4239,20,32755,32755,PRON,PER,me,Mr. Ebenezer Scrooge
+4240,20,32757,32757,PRON,PER,I,Mr. Ebenezer Scrooge
+4241,34,32763,32763,PRON,PER,you,Good Spirit
+4242,20,32766,32766,PRON,PER,me,Mr. Ebenezer Scrooge
+4243,20,32779,32779,PRON,PER,I,Mr. Ebenezer Scrooge
+4244,20,32784,32784,PRON,PER,my,Mr. Ebenezer Scrooge
+4245,20,32796,32796,PRON,PER,I,Mr. Ebenezer Scrooge
+4248,20,32818,32818,PRON,PER,me,Mr. Ebenezer Scrooge
+4249,20,32820,32820,PRON,PER,I,Mr. Ebenezer Scrooge
+4251,20,32834,32834,PRON,PER,me,Mr. Ebenezer Scrooge
+4252,20,32835,32835,PRON,PER,I,Mr. Ebenezer Scrooge
+4253,20,32847,32847,PRON,PER,his,Mr. Ebenezer Scrooge
+4254,20,32849,32849,PRON,PER,he,Mr. Ebenezer Scrooge
+4255,20,32862,32862,PRON,PER,he,Mr. Ebenezer Scrooge
+4256,20,32866,32866,PRON,PER,his,Mr. Ebenezer Scrooge
+4257,20,32879,32879,PRON,PER,him,Mr. Ebenezer Scrooge
+4258,20,32883,32883,PRON,PER,his,Mr. Ebenezer Scrooge
+4259,20,32891,32891,PRON,PER,his,Mr. Ebenezer Scrooge
+4260,20,32895,32895,PRON,PER,he,Mr. Ebenezer Scrooge
+4263,20,32929,32929,PRON,PER,his,Mr. Ebenezer Scrooge
+4264,20,32935,32935,PRON,PER,his,Mr. Ebenezer Scrooge
+4266,20,32941,32941,PRON,PER,his,Mr. Ebenezer Scrooge
+4267,20,32953,32953,PRON,PER,him,Mr. Ebenezer Scrooge
+4268,20,32955,32955,PRON,PER,his,Mr. Ebenezer Scrooge
+4269,20,32964,32964,PRON,PER,I,Mr. Ebenezer Scrooge
+4271,20,32979,32979,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4272,20,32982,32982,PRON,PER,he,Mr. Ebenezer Scrooge
+4274,20,32997,32997,PRON,PER,me,Mr. Ebenezer Scrooge
+4275,16,33000,33001,PROP,PER,Jacob Marley,Old Jacob Marley
+4276,20,33013,33013,PRON,PER,I,Mr. Ebenezer Scrooge
+4277,20,33017,33017,PRON,PER,my,Mr. Ebenezer Scrooge
+4278,16,33020,33021,PROP,PER,old Jacob,Old Jacob Marley
+4279,20,33024,33024,PRON,PER,my,Mr. Ebenezer Scrooge
+4280,20,33028,33028,PRON,PER,He,Mr. Ebenezer Scrooge
+4281,20,33036,33036,PRON,PER,his,Mr. Ebenezer Scrooge
+4282,20,33041,33041,PRON,PER,his,Mr. Ebenezer Scrooge
+4283,20,33048,33048,PRON,PER,his,Mr. Ebenezer Scrooge
+4284,20,33051,33051,PRON,PER,He,Mr. Ebenezer Scrooge
+4285,20,33057,33057,PRON,PER,his,Mr. Ebenezer Scrooge
+4287,20,33064,33064,PRON,PER,his,Mr. Ebenezer Scrooge
+4288,20,33080,33080,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4289,20,33085,33085,PRON,PER,his,Mr. Ebenezer Scrooge
+4290,20,33090,33090,PRON,PER,his,Mr. Ebenezer Scrooge
+4292,20,33108,33108,PRON,PER,I,Mr. Ebenezer Scrooge
+4293,20,33129,33129,PRON,PER,I,Mr. Ebenezer Scrooge
+4295,20,33135,33135,PRON,PER,His,Mr. Ebenezer Scrooge
+4296,20,33140,33140,PRON,PER,his,Mr. Ebenezer Scrooge
+4298,20,33173,33173,PRON,PER,I,Mr. Ebenezer Scrooge
+4299,20,33183,33183,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4300,20,33199,33199,PRON,PER,himself,Mr. Ebenezer Scrooge
+4301,20,33201,33201,PRON,PER,his,Mr. Ebenezer Scrooge
+4302,20,33205,33205,PRON,PER,I,Mr. Ebenezer Scrooge
+4303,20,33213,33213,PRON,PER,I,Mr. Ebenezer Scrooge
+4305,20,33221,33221,PRON,PER,I,Mr. Ebenezer Scrooge
+4307,20,33229,33229,PRON,PER,I,Mr. Ebenezer Scrooge
+4312,20,33261,33261,PRON,PER,He,Mr. Ebenezer Scrooge
+4314,20,33292,33292,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4316,16,33314,33315,PROP,PER,Jacob Marley,Old Jacob Marley
+4318,20,33335,33335,PRON,PER,I,Mr. Ebenezer Scrooge
+4322,20,33402,33402,PRON,PER,I,Mr. Ebenezer Scrooge
+4323,20,33416,33416,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4326,66,33429,33430,PROP,PER,the Spirits,THE SPIRITS The Phantom
+4340,20,33585,33585,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4345,20,33627,33627,PRON,PER,my,Mr. Ebenezer Scrooge
+4347,20,33633,33633,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4349,20,33660,33660,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4350,20,33662,33662,PRON,PER,himself,Mr. Ebenezer Scrooge
+4351,20,33665,33665,PRON,PER,I,Mr. Ebenezer Scrooge
+4352,66,33671,33672,PROP,PER,The Spirits,THE SPIRITS The Phantom
+4357,20,33700,33700,PRON,PER,my,Mr. Ebenezer Scrooge
+4363,20,33732,33732,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4368,20,33754,33754,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4376,20,33809,33809,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4378,20,33823,33823,PRON,PER,my,Mr. Ebenezer Scrooge
+4381,20,33845,33845,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4383,20,33871,33871,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4384,20,33874,33874,PRON,PER,I,Mr. Ebenezer Scrooge
+4398,20,33970,33970,PRON,PER,I,Mr. Ebenezer Scrooge
+4399,54,33975,33976,PROP,PER,Bob Cratchit,Bob Cratchit
+4400,20,33981,33981,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4401,20,33984,33984,PRON,PER,his,Mr. Ebenezer Scrooge
+4402,54,33994,33994,PRON,PER,He,Bob Cratchit
+4404,58,34008,34009,PROP,PER,Tiny Tim,poor Tiny Tim
+4405,69,34011,34012,PROP,PER,Joe Miller,Joe Miller
+4406,54,34022,34022,PROP,PER,Bob,Bob Cratchit
+4407,20,34032,34032,PRON,PER,he,Mr. Ebenezer Scrooge
+4408,20,34045,34045,PRON,PER,he,Mr. Ebenezer Scrooge
+4412,20,34071,34071,PRON,PER,he,Mr. Ebenezer Scrooge
+4413,20,34076,34076,PRON,PER,his,Mr. Ebenezer Scrooge
+4415,20,34082,34082,PRON,PER,his,Mr. Ebenezer Scrooge
+4416,20,34086,34086,PRON,PER,I,Mr. Ebenezer Scrooge
+4417,20,34093,34093,PRON,PER,I,Mr. Ebenezer Scrooge
+4418,20,34098,34098,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4419,20,34103,34103,PRON,PER,his,Mr. Ebenezer Scrooge
+4420,20,34107,34107,PRON,PER,I,Mr. Ebenezer Scrooge
+4422,20,34140,34140,PRON,PER,you,Mr. Ebenezer Scrooge
+4423,20,34153,34153,PRON,PER,He,Mr. Ebenezer Scrooge
+4424,20,34159,34159,PRON,PER,his,Mr. Ebenezer Scrooge
+4425,20,34165,34165,PRON,PER,He,Mr. Ebenezer Scrooge
+4427,20,34198,34198,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4428,20,34201,34201,PRON,PER,You,Mr. Ebenezer Scrooge
+4430,20,34212,34212,PRON,PER,he,Mr. Ebenezer Scrooge
+4431,20,34221,34221,PRON,PER,he,Mr. Ebenezer Scrooge
+4432,20,34232,34232,PRON,PER,he,Mr. Ebenezer Scrooge
+4434,20,34243,34243,PRON,PER,he,Mr. Ebenezer Scrooge
+4436,20,34258,34258,PRON,PER,he,Mr. Ebenezer Scrooge
+4437,20,34263,34263,PRON,PER,his,Mr. Ebenezer Scrooge
+4438,20,34270,34270,PRON,PER,he,Mr. Ebenezer Scrooge
+4439,20,34281,34281,PRON,PER,his,Mr. Ebenezer Scrooge
+4442,20,34308,34308,PRON,PER,he,Mr. Ebenezer Scrooge
+4443,20,34314,34314,PRON,PER,his,Mr. Ebenezer Scrooge
+4444,20,34318,34318,PRON,PER,he,Mr. Ebenezer Scrooge
+4445,20,34336,34336,PRON,PER,He,Mr. Ebenezer Scrooge
+4446,20,34338,34338,PRON,PER,himself,Mr. Ebenezer Scrooge
+4447,20,34342,34342,PRON,PER,his,Mr. Ebenezer Scrooge
+4450,20,34365,34365,PRON,PER,he,Mr. Ebenezer Scrooge
+4453,20,34380,34380,PRON,PER,his,Mr. Ebenezer Scrooge
+4454,20,34383,34383,PRON,PER,him,Mr. Ebenezer Scrooge
+4455,20,34385,34385,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4457,20,34394,34394,PRON,PER,He,Mr. Ebenezer Scrooge
+4461,20,34428,34429,PROP,PER,And Scrooge,Mr. Ebenezer Scrooge
+4462,20,34440,34440,PRON,PER,he,Mr. Ebenezer Scrooge
+4463,20,34450,34450,PRON,PER,his,Mr. Ebenezer Scrooge
+4464,20,34453,34453,PRON,PER,He,Mr. Ebenezer Scrooge
+4465,20,34463,34463,PRON,PER,him,Mr. Ebenezer Scrooge
+4466,20,34465,34465,PRON,PER,he,Mr. Ebenezer Scrooge
+4468,20,34474,34474,PRON,PER,his,Mr. Ebenezer Scrooge
+4470,20,34486,34486,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4471,16,34488,34488,PROP,PER,Marley,Old Jacob Marley
+4472,20,34491,34491,PRON,PER,I,Mr. Ebenezer Scrooge
+4473,20,34500,34500,PRON,PER,his,Mr. Ebenezer Scrooge
+4475,20,34511,34511,PRON,PER,him,Mr. Ebenezer Scrooge
+4477,20,34517,34517,PRON,PER,he,Mr. Ebenezer Scrooge
+4478,20,34524,34524,PRON,PER,him,Mr. Ebenezer Scrooge
+4479,20,34527,34527,PRON,PER,he,Mr. Ebenezer Scrooge
+4480,20,34532,34532,PRON,PER,My,Mr. Ebenezer Scrooge
+4482,20,34538,34538,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4483,20,34541,34541,PRON,PER,his,Mr. Ebenezer Scrooge
+4485,20,34551,34551,PRON,PER,his,Mr. Ebenezer Scrooge
+4487,20,34560,34560,PRON,PER,I,Mr. Ebenezer Scrooge
+4492,20,34583,34584,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+4493,20,34592,34592,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4494,20,34597,34597,PRON,PER,my,Mr. Ebenezer Scrooge
+4495,20,34601,34601,PRON,PER,I,Mr. Ebenezer Scrooge
+4497,20,34612,34612,PRON,PER,me,Mr. Ebenezer Scrooge
+4500,20,34626,34626,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4508,20,34653,34654,PROP,PER,Mr. Scrooge,Mr. Ebenezer Scrooge
+4509,20,34657,34657,PRON,PER,you,Mr. Ebenezer Scrooge
+4511,20,34668,34668,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4512,20,34687,34687,PRON,PER,I,Mr. Ebenezer Scrooge
+4515,20,34694,34694,PRON,PER,me,Mr. Ebenezer Scrooge
+4522,20,34736,34736,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4523,20,34742,34742,PRON,PER,me,Mr. Ebenezer Scrooge
+4525,20,34749,34749,PRON,PER,me,Mr. Ebenezer Scrooge
+4530,20,34777,34777,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4531,20,34780,34780,PRON,PER,I,Mr. Ebenezer Scrooge
+4533,20,34787,34787,PRON,PER,I,Mr. Ebenezer Scrooge
+4558,20,34918,34918,PRON,PER,my,Mr. Ebenezer Scrooge
+4560,20,34923,34923,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4565,20,34946,34946,PRON,PER,my,Mr. Ebenezer Scrooge
+4567,20,34951,34951,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4577,20,34984,34984,PRON,PER,me,Mr. Ebenezer Scrooge
+4578,20,34988,34988,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4579,20,34991,34991,PRON,PER,his,Mr. Ebenezer Scrooge
+4580,20,35002,35002,PRON,PER,I,Mr. Ebenezer Scrooge
+4582,20,35008,35008,PRON,PER,my,Mr. Ebenezer Scrooge
+4584,20,35012,35012,PRON,PER,He,Mr. Ebenezer Scrooge
+4585,20,35019,35019,PRON,PER,his,Mr. Ebenezer Scrooge
+4588,63,35063,35063,PROP,PER,Fred,Fred
+4589,20,35067,35067,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4590,20,35074,35074,PRON,PER,his,Mr. Ebenezer Scrooge
+4592,20,35080,35080,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4594,20,35099,35099,PRON,PER,he,Mr. Ebenezer Scrooge
+4595,63,35113,35113,PRON,PER,my,Fred
+4596,63,35118,35118,PROP,PER,Fred,Fred
+4597,63,35130,35130,PRON,PER,Your,Fred
+4599,20,35132,35132,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4600,20,35134,35134,PRON,PER,I,Mr. Ebenezer Scrooge
+4601,63,35141,35141,PRON,PER,you,Fred
+4602,20,35143,35143,PRON,PER,me,Mr. Ebenezer Scrooge
+4603,63,35146,35146,PROP,PER,Fred,Fred
+4604,20,35150,35150,PRON,PER,him,Mr. Ebenezer Scrooge
+4605,20,35157,35157,PRON,PER,he,Mr. Ebenezer Scrooge
+4606,20,35161,35161,PRON,PER,his,Mr. Ebenezer Scrooge
+4607,20,35165,35165,PRON,PER,He,Mr. Ebenezer Scrooge
+4609,20,35178,35178,PRON,PER,His,Mr. Ebenezer Scrooge
+4611,64,35187,35187,PROP,PER,Topper,Topper
+4612,20,35190,35190,PRON,PER,he,Mr. Ebenezer Scrooge
+4617,20,35232,35232,PRON,PER,he,Mr. Ebenezer Scrooge
+4619,20,35243,35243,PRON,PER,he,Mr. Ebenezer Scrooge
+4621,20,35249,35249,PRON,PER,he,Mr. Ebenezer Scrooge
+4623,54,35258,35259,PROP,PER,Bob Cratchit,Bob Cratchit
+4624,20,35267,35267,PRON,PER,he,Mr. Ebenezer Scrooge
+4625,20,35270,35270,PRON,PER,his,Mr. Ebenezer Scrooge
+4626,20,35275,35275,PRON,PER,he,Mr. Ebenezer Scrooge
+4627,20,35281,35281,PRON,PER,he,Mr. Ebenezer Scrooge
+4628,54,35290,35290,PROP,PER,Bob,Bob Cratchit
+4629,54,35297,35297,PROP,PER,Bob,Bob Cratchit
+4630,54,35299,35299,PRON,PER,He,Bob Cratchit
+4631,54,35308,35308,PRON,PER,his,Bob Cratchit
+4632,20,35311,35311,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4633,20,35314,35314,PRON,PER,his,Mr. Ebenezer Scrooge
+4634,20,35320,35320,PRON,PER,he,Mr. Ebenezer Scrooge
+4635,54,35323,35323,PRON,PER,him,Bob Cratchit
+4637,20,35329,35329,PRON,PER,His,Mr. Ebenezer Scrooge
+4638,20,35334,35334,PRON,PER,he,Mr. Ebenezer Scrooge
+4639,20,35339,35339,PRON,PER,his,Mr. Ebenezer Scrooge
+4640,20,35343,35343,PRON,PER,He,Mr. Ebenezer Scrooge
+4641,20,35346,35346,PRON,PER,his,Mr. Ebenezer Scrooge
+4642,20,35355,35355,PRON,PER,his,Mr. Ebenezer Scrooge
+4643,20,35360,35360,PRON,PER,he,Mr. Ebenezer Scrooge
+4644,20,35373,35373,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4645,20,35375,35375,PRON,PER,his,Mr. Ebenezer Scrooge
+4646,20,35381,35381,PRON,PER,he,Mr. Ebenezer Scrooge
+4647,54,35389,35389,PRON,PER,you,Bob Cratchit
+4649,54,35402,35402,PRON,PER,I,Bob Cratchit
+4651,54,35411,35411,PROP,PER,Bob,Bob Cratchit
+4652,54,35414,35414,PRON,PER,I,Bob Cratchit
+4653,54,35419,35419,PRON,PER,my,Bob Cratchit
+4654,54,35424,35424,PRON,PER,You,Bob Cratchit
+4655,20,35429,35429,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4656,20,35434,35434,PRON,PER,I,Mr. Ebenezer Scrooge
+4657,54,35436,35436,PRON,PER,you,Bob Cratchit
+4659,54,35446,35446,PRON,PER,you,Bob Cratchit
+4661,54,35462,35462,PROP,PER,Bob,Bob Cratchit
+4662,54,35476,35476,PRON,PER,I,Bob Cratchit
+4664,20,35489,35489,PRON,PER,I,Mr. Ebenezer Scrooge
+4665,54,35492,35492,PRON,PER,you,Bob Cratchit
+4666,20,35495,35495,PRON,PER,my,Mr. Ebenezer Scrooge
+4668,20,35500,35500,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4669,20,35503,35503,PRON,PER,I,Mr. Ebenezer Scrooge
+4670,20,35520,35520,PRON,PER,he,Mr. Ebenezer Scrooge
+4671,20,35525,35525,PRON,PER,his,Mr. Ebenezer Scrooge
+4672,54,35530,35530,PROP,PER,Bob,Bob Cratchit
+4673,20,35538,35538,PRON,PER,he,Mr. Ebenezer Scrooge
+4675,54,35551,35551,PRON,PER,your,Bob Cratchit
+4676,54,35555,35555,PROP,PER,Bob,Bob Cratchit
+4678,54,35567,35567,PRON,PER,He,Bob Cratchit
+4679,20,35574,35574,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4680,54,35580,35580,PRON,PER,him,Bob Cratchit
+4682,54,35603,35603,PROP,PER,Bob,Bob Cratchit
+4683,20,35607,35607,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4684,20,35619,35619,PRON,PER,he,Mr. Ebenezer Scrooge
+4685,54,35621,35621,PRON,PER,him,Bob Cratchit
+4686,54,35631,35631,PROP,PER,Bob,Bob Cratchit
+4687,20,35633,35633,PRON,PER,my,Mr. Ebenezer Scrooge
+4689,20,35638,35638,PRON,PER,I,Mr. Ebenezer Scrooge
+4690,54,35641,35641,PRON,PER,you,Bob Cratchit
+4691,20,35647,35647,PRON,PER,I,Mr. Ebenezer Scrooge
+4692,54,35650,35650,PRON,PER,your,Bob Cratchit
+4693,54,35657,35657,PRON,PER,your,Bob Cratchit
+4696,54,35665,35665,PRON,PER,your,Bob Cratchit
+4697,54,35679,35679,PROP,PER,Bob,Bob Cratchit
+4698,54,35692,35692,PRON,PER,you,Bob Cratchit
+4699,20,35695,35695,PRON,PER,i,Mr. Ebenezer Scrooge
+4700,54,35697,35698,PROP,PER,Bob Cratchit,Bob Cratchit
+4701,20,35701,35701,PROP,PER,Scrooge,Mr. Ebenezer Scrooge
+4702,20,35705,35705,PRON,PER,his,Mr. Ebenezer Scrooge
+4703,20,35708,35708,PRON,PER,He,Mr. Ebenezer Scrooge
+4704,58,35719,35720,PROP,PER,Tiny Tim,poor Tiny Tim
+4705,58,35727,35727,PRON,PER,he,poor Tiny Tim
+4707,58,35733,35733,PRON,PER,He,poor Tiny Tim
+4715,58,35782,35782,PRON,PER,him,poor Tiny Tim
+4716,58,35785,35785,PRON,PER,he,poor Tiny Tim
+4719,58,35796,35796,PRON,PER,he,poor Tiny Tim
+4724,58,35839,35839,PRON,PER,he,poor Tiny Tim
+4727,58,35863,35863,PRON,PER,His,poor Tiny Tim
+4728,58,35874,35874,PRON,PER,him,poor Tiny Tim
+4729,58,35876,35876,PRON,PER,He,poor Tiny Tim
+4730,66,35882,35882,PROP,PER,Spirits,THE SPIRITS The Phantom
+4731,58,35901,35901,PRON,PER,him,poor Tiny Tim
+4732,58,35903,35903,PRON,PER,he,poor Tiny Tim
+4738,58,35936,35937,PROP,PER,Tiny Tim,poor Tiny Tim
